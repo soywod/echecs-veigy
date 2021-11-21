@@ -1,9 +1,9 @@
-import type {NextPage as Page} from "next";
+import {NextPage} from "next";
 import Head from "next/head";
 
 import {usePostPreviewsQuery} from "../sdk";
 
-const BlogPage: Page = () => {
+const BlogPage: NextPage = () => {
   const {data} = usePostPreviewsQuery();
 
   if (!data) {

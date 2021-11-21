@@ -1,8 +1,8 @@
 import {ApolloServer} from "apollo-server-micro";
-import matter from "gray-matter";
 import {IncomingMessage, ServerResponse} from "http";
 import {DateTimeResolver, DateTimeTypeDefinition} from "graphql-scalars";
 import {DateTime} from "luxon";
+import matter from "gray-matter";
 
 import blogTypeDefs from "../../blog/schema.gql";
 import {Post, Resolvers} from "../../sdk";

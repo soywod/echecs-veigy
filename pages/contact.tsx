@@ -1,7 +1,7 @@
-import type {NextPage as Page} from "next";
+import {NextPage} from "next";
 import Head from "next/head";
 
-const ContactPage: Page = () => {
+const ContactPage: NextPage = () => {
   return (
     <>
       <Head>
