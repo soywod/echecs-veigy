@@ -55,6 +55,6 @@ export default async function handler(req: IncomingMessage, res: ServerResponse)
 
 export const config = {
   api: {
-    bodyParser: false,
+    bodyParser: process.env.NODE_ENV !== "production",
   },
 };
