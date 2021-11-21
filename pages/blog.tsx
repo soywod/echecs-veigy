@@ -1,7 +1,15 @@
 import type {NextPage as Page} from "next";
 import Head from "next/head";
 
-const HomePage: Page = () => {
+import {usePostPreviewsQuery} from "../sdk";
+
+const BlogPage: Page = () => {
+  const {data} = usePostPreviewsQuery();
+
+  if (!data) {
+    return <>loading...</>;
+  }
+
   return (
     <>
       <Head>
@@ -11,10 +19,11 @@ const HomePage: Page = () => {
       </Head>
 
       <main>
-        <h1>Accueil</h1>
+        <h1>Blog</h1>
+        <ul>{data.getPosts.posts.map(post => post && <li key={post.id}>{post.id}</li>)}</ul>
       </main>
     </>
   );
 };
 
-export default HomePage;
+export default BlogPage;

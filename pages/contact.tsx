@@ -1,7 +1,7 @@
 import type {NextPage as Page} from "next";
 import Head from "next/head";
 
-const HomePage: Page = () => {
+const ContactPage: Page = () => {
   return (
     <>
       <Head>
@@ -11,10 +11,10 @@ const HomePage: Page = () => {
       </Head>
 
       <main>
-        <h1>Accueil</h1>
+        <h1>Contact</h1>
       </main>
     </>
   );
 };
 
-export default HomePage;
+export default ContactPage;

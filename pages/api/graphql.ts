@@ -1,39 +1,56 @@
-import {ApolloServer, gql} from "apollo-server-micro";
+import {ApolloServer} from "apollo-server-micro";
+import matter from "gray-matter";
+import {IncomingMessage, ServerResponse} from "http";
+import {DateTimeResolver, DateTimeTypeDefinition} from "graphql-scalars";
+import {DateTime} from "luxon";
 
-const typeDefs = gql`
-  type Query {
-    users: [User!]!
-  }
-  type User {
-    name: String
-  }
-`;
+import blogTypeDefs from "../../blog/schema.gql";
+import {Post, Resolvers} from "../../sdk";
 
-const resolvers = {
+const resolvers: Resolvers = {
+  DateTime: DateTimeResolver,
   Query: {
-    users(_parent: any, _args: any, _context: any) {
-      return [{name: "Nextjs"}];
+    getPosts() {
+      const webpackCtx = require.context("../../blog/posts", false, /\.md$/);
+      const keys = webpackCtx.keys();
+      const posts: Post[] = keys
+        .map(webpackCtx)
+        .map((module: any) => matter(module.default))
+        .map(post => ({
+          id: post.data.title,
+          date: post.data.date,
+        }))
+        .sort((a: Post, b: Post) => {
+          const dateA = DateTime.fromISO(a.date);
+          const dateB = DateTime.fromISO(b.date);
+
+          if (dateA < dateB) return 1;
+          else if (dateA > dateB) return -1;
+          else return 0;
+        });
+
+      return {__typename: "GetPostsSuccessPayload", posts};
     },
   },
 };
 
-const apolloServer = new ApolloServer({typeDefs, resolvers});
+const apolloServer = new ApolloServer({
+  typeDefs: [DateTimeTypeDefinition, blogTypeDefs],
+  resolvers,
+});
+const startApolloServer = apolloServer.start();
 
-const startServer = apolloServer.start();
-
-export default async function handler(req: any, res: any) {
+export default async function handler(req: IncomingMessage, res: ServerResponse) {
   res.setHeader("Access-Control-Allow-Credentials", "true");
   res.setHeader("Access-Control-Allow-Origin", "https://studio.apollographql.com");
   res.setHeader("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+
   if (req.method === "OPTIONS") {
-    res.end();
-    return false;
+    return res.end();
   }
 
-  await startServer;
-  await apolloServer.createHandler({
-    path: "/api/graphql",
-  })(req, res);
+  await startApolloServer;
+  await apolloServer.createHandler({path: "/api/graphql"})(req, res);
 }
 
 export const config = {
