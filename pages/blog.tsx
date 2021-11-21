@@ -6,10 +6,6 @@ import {usePostPreviewsQuery} from "../sdk";
 const BlogPage: NextPage = () => {
   const {data} = usePostPreviewsQuery();
 
-  if (!data) {
-    return <>loading...</>;
-  }
-
   return (
     <>
       <Head>
@@ -19,8 +15,13 @@ const BlogPage: NextPage = () => {
       </Head>
 
       <main>
-        <h1>Blog</h1>
-        <ul>{data.getPosts.posts.map(post => post && <li key={post.id}>{post.id}</li>)}</ul>
+        <h1>La vie du club</h1>
+        <h2>Liste des articles</h2>
+        {data && data.getPosts.__typename === "GetPostsSuccessPayload" ? (
+          <ul>{data.getPosts.posts.map(post => post && <li key={post.id}>{post.id}</li>)}</ul>
+        ) : (
+          <div>Chargement des articles…</div>
+        )}
       </main>
     </>
   );

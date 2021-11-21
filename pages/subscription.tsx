@@ -1,7 +1,7 @@
 import {NextPage} from "next";
 import Head from "next/head";
 
-const SubscribePage: NextPage = () => {
+const SubscriptionPage: NextPage = () => {
   return (
     <>
       <Head>
@@ -11,10 +11,10 @@ const SubscribePage: NextPage = () => {
       </Head>
 
       <main>
-        <h1>Inscription</h1>
+        <h1>S'inscrire au club</h1>
       </main>
     </>
   );
 };
 
-export default SubscribePage;
+export default SubscriptionPage;

@@ -1,7 +1,7 @@
 import {NextPage} from "next";
 import Head from "next/head";
 
-const ContactPage: NextPage = () => {
+const TournamentPage: NextPage = () => {
   return (
     <>
       <Head>
@@ -11,10 +11,10 @@ const ContactPage: NextPage = () => {
       </Head>
 
       <main>
-        <h1>Nous contacter</h1>
+        <h1>Tournois</h1>
       </main>
     </>
   );
 };
 
-export default ContactPage;
+export default TournamentPage;
