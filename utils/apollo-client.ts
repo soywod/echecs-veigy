@@ -1,17 +1,19 @@
-import {ApolloClient, InMemoryCache, NormalizedCacheObject} from "@apollo/client";
+import {ApolloClient, createHttpLink, InMemoryCache, NormalizedCacheObject} from "@apollo/client";
+
+const uri = `${process.env.NEXT_PUBLIC_GRAPHQL_API_BASE_URL}/api/graphql`;
+const cache = new InMemoryCache();
 
 let client: ApolloClient<NormalizedCacheObject>;
 
 export function getApolloClient(): ApolloClient<NormalizedCacheObject> {
-  const fromServer = typeof window === "undefined";
-  const apolloState: NormalizedCacheObject = fromServer ? {} : window.__NEXT_DATA__.props.apolloState;
-
   if (!client) {
-    client = new ApolloClient({
-      ssrMode: fromServer,
-      uri: "http://localhost:3000/api/graphql",
-      cache: new InMemoryCache().restore(apolloState),
-    });
+    const fromServer = typeof window === "undefined";
+    if (fromServer) {
+      client = new ApolloClient({ssrMode: true, link: createHttpLink({uri}), cache});
+    } else {
+      cache.restore(window.__NEXT_DATA__.props.apolloState);
+      client = new ApolloClient({uri, cache});
+    }
   }
 
   return client;
