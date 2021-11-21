@@ -42,8 +42,8 @@ const startApolloServer = apolloServer.start();
 
 export default async function handler(req: IncomingMessage, res: ServerResponse) {
   res.setHeader("Access-Control-Allow-Credentials", "true");
-  res.setHeader("Access-Control-Allow-Origin", "https://studio.apollographql.com");
-  res.setHeader("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+  res.setHeader("Access-Control-Allow-Origin", "*");
+  res.setHeader("Access-Control-Allow-Headers", "*");
 
   if (req.method === "OPTIONS") {
     return res.end();
@@ -55,6 +55,6 @@ export default async function handler(req: IncomingMessage, res: ServerResponse)
 
 export const config = {
   api: {
-    bodyParser: process.env.NODE_ENV !== "production",
+    bodyParser: false,
   },
 };

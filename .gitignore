@@ -38,3 +38,6 @@ yarn-error.log*
 
 # generated
 sdk.ts
+/out_publish/
+/out_functions/
+/404.html

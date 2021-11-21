@@ -1,4 +1,4 @@
-import Document, {DocumentContext, DocumentInitialProps, Head, Html, Main, NextScript} from "next/document";
+import Document, {DocumentContext, DocumentInitialProps} from "next/document";
 import {NormalizedCacheObject} from "@apollo/client";
 import {getDataFromTree} from "@apollo/client/react/ssr";
 
@@ -20,18 +20,6 @@ class DocumentWithApollo extends Document {
     const initialProps = await Document.getInitialProps(ctx);
     const apolloState = getApolloClient().extract();
     return {...initialProps, apolloState};
-  }
-
-  render() {
-    return (
-      <Html>
-        <Head />
-        <body>
-          <Main />
-          <NextScript />
-        </body>
-      </Html>
-    );
   }
 }
 
