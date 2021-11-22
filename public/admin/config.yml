@@ -1,4 +1,5 @@
 locale: fr
+publish_mode: editorial_workflow
 backend:
   name: git-gateway
   branch: master
@@ -7,7 +8,7 @@ public_folder: /media
 collections:
 - name: blog
   label: Article
-  folder: blog
+  folder: blog/posts
   create: true
   slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
   fields:
