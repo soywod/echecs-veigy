@@ -8,24 +8,16 @@ export const Nav: FC = () => {
         <a>Accueil</a>
       </Link>
       -
-      <Link href="/tournament">
-        <a>Les tournois</a>
+      <Link href="/competition">
+        <a>Compétition</a>
       </Link>
       -
-      <Link href="/blog">
-        <a>La vie du club</a>
-      </Link>
-      -
-      <Link href="/subscription">
-        <a>S'inscrire</a>
+      <Link href="/inscription">
+        <a>Inscription</a>
       </Link>
       -
       <Link href="/contact">
-        <a>Nous contacter</a>
-      </Link>
-      -
-      <Link href="/authentication">
-        <a>Se connecter</a>
+        <a>Contact</a>
       </Link>
     </nav>
   );

@@ -1,9 +1,6 @@
-const withGraphQL = require("next-plugin-graphql");
-
 /** @type {import('next').NextConfig} */
-module.exports = withGraphQL({
+module.exports = {
   reactStrictMode: true,
-  target: "serverless",
   webpack: config => {
     config.module.rules.push({
       test: /\.md$/,
@@ -11,4 +8,4 @@ module.exports = withGraphQL({
     });
     return config;
   },
-});
+};

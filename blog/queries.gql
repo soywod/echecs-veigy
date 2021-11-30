@@ -1,9 +1,0 @@
-query PostPreviews {
-  getPosts {
-    ... on GetPostsSuccessPayload {
-      posts {
-        id
-      }
-    }
-  }
-}

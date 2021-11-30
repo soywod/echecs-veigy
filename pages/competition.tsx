@@ -1,7 +1,7 @@
 import {NextPage} from "next";
 import Head from "next/head";
 
-const TournamentPage: NextPage = () => {
+const CompetitionPage: NextPage = () => {
   return (
     <>
       <Head>
@@ -17,4 +17,4 @@ const TournamentPage: NextPage = () => {
   );
 };
 
-export default TournamentPage;
+export default CompetitionPage;
