@@ -3,27 +3,34 @@ import matter from "gray-matter";
 import Head from "next/head";
 
 type Post = {
-  id: string;
-  date: Date;
+  id: number;
+  title: string;
+  date: Date | string;
 };
 
 type SerializedPost = {
   [K in keyof Post]: string;
 };
 
-function parsePost(module: any): Post {
+function parsePost(module: any, idx: number): Post {
   const md = matter(module.default);
-  return {id: md.data.title, date: md.data.date};
+  return {id: idx, title: md.data.title, date: md.data.date};
 }
 
 function orderPostsByDate(a: Post, b: Post): number {
-  if (a.date < b.date) return 1;
-  else if (a.date > b.date) return -1;
+  const dateA = a.date instanceof Date ? a.date : new Date(a.date);
+  const dateB = b.date instanceof Date ? b.date : new Date(b.date);
+  if (dateA < dateB) return 1;
+  else if (dateA > dateB) return -1;
   else return 0;
 }
 
 function serializePost(post: Post): SerializedPost {
-  return {id: post.id, date: post.date.toDateString()};
+  return {
+    id: post.id.toString(),
+    title: post.title,
+    date: post.date instanceof Date ? post.date.toDateString() : post.date,
+  };
 }
 
 export const getStaticProps: GetStaticProps<Props> = async () => {
@@ -53,7 +60,7 @@ const BlogPage: NextPage<Props> = props => {
       <main>
         <h1>La vie du club</h1>
         <h2>Liste des articles</h2>
-        <ul>{props.posts.map(post => post && <li key={post.id}>{post.id}</li>)}</ul>
+        <ul>{props.posts.map(post => post && <li key={post.id}>{post.title}</li>)}</ul>
       </main>
     </>
   );
