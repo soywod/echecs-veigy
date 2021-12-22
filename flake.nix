@@ -23,10 +23,11 @@
             defaultPackage = pkgs.yarn2nix-moretea.mkYarnPackage {
               inherit name;
               src = ./.;
+              extraBuildInputs = with pkgs.nodePackages; [ prettier typescript typescript-language-server ];
               configurePhase = "ln -s $node_modules node_modules";
               buildPhase = "${next} build";
-              installPhase = "${next} export -o $out";
-              distPhase = "exit";
+              installPhase = "exit";
+              distPhase = "${next} export -o $out";
             };            
 
             # nix develop
