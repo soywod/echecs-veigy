@@ -14,11 +14,18 @@
     "gray-matter": "^4.0.3",
     "netlify-plugin-cache-nextjs": "^1.6.1",
     "raw-loader": "^4.0.2",
+    "rimraf": "^3.0.2",
     "typescript": "4.5.2"
   },
   "dependencies": {
     "next": "12.0.4",
     "react": "17.0.2",
     "react-dom": "17.0.2"
+  },
+  "scripts": {
+    "start": "next dev",
+    "prebuild": "rimraf result",
+    "build": "next build",
+    "postbuild": "next export -o result"
   }
 }
