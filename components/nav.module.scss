@@ -2,17 +2,20 @@
 
 .nav {
   box-sizing: border-box;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+  display: grid;
   width: 16rem;
   background: $black;
   padding: 0 2rem;
+  position: relative;
+  align-content: center;
+  justify-items: right;
 }
 
 .logo {
-  transform-origin: top center;
-  transform: scale(1.5) translateX(1.5rem);
+  position: absolute;
+  top: 0;
+  transform: scale(1.1) translate(2rem);
+  transform-origin: top left;
 }
 
 .links {
@@ -23,11 +26,22 @@
 
 .link {
   color: $white;
-  font-size: 1.75rem;
-  padding: 0.75rem 0;
+  font-size: 1.5rem;
+  padding: 1rem 0;
   cursor: pointer;
   text-decoration: none;
   font-weight: bold;
+  transition-duration: 125ms, 500ms;
+  transition-property: padding, color;
+
+  &:hover {
+    padding-right: 0.5rem;
+    color: $orange;
+  }
+
+  &.active {
+    color: $red;
+  }
 }
 
 .footer {

@@ -1,0 +1,14 @@
+@import "../theme";
+
+.title {
+  text-transform: uppercase;
+  font-size: 3rem;
+
+  .orange {
+    color: $orange;
+  }
+
+  .red {
+    color: $red;
+  }
+}

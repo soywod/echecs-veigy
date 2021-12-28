@@ -6,8 +6,10 @@
   height: 100vh;
   display: grid;
   grid-template-columns: auto minmax(0, 1fr);
+  font-family: "Sora", sans-serif;
 }
 
 .main {
   overflow-y: auto;
+  padding: 0 8rem;
 }

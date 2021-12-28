@@ -1,9 +1,24 @@
 import {FC} from "react";
 import Link from "next/link";
 import Img from "next/image";
+import {useRouter} from "next/router";
+import cn from "classnames";
 
-import logo from "./logo.png";
+import logo from "../images/logo.png";
 import cs from "./nav.module.scss";
+
+type NavLinkProps = {
+  path: string;
+};
+
+const NavLink: FC<NavLinkProps> = ({path, children}) => {
+  const router = useRouter();
+  return (
+    <Link href={path}>
+      <a className={cn(cs.link, {[cs.active]: router.pathname === path})}>{children}</a>
+    </Link>
+  );
+};
 
 export const Nav: FC = () => {
   return (
@@ -11,24 +26,11 @@ export const Nav: FC = () => {
       <div className={cs.logo}>
         <Img src={logo} />
       </div>
-      <div className={cs.links}>
-        <Link href="/">
-          <a className={cs.link}>Accueil</a>
-        </Link>
-        <Link href="/a-propos">
-          <a className={cs.link}>À propos</a>
-        </Link>
-        <Link href="/competition">
-          <a className={cs.link}>Compétition</a>
-        </Link>
-        <Link href="/inscription">
-          <a className={cs.link}>Inscription</a>
-        </Link>
-        <Link href="/contact">
-          <a className={cs.link}>Contact</a>
-        </Link>
-      </div>
-      <footer className={cs.footer}>FOOTER</footer>
+      <NavLink path="/">Accueil</NavLink>
+      <NavLink path="/about">À propos</NavLink>
+      <NavLink path="/competition">Compétition</NavLink>
+      <NavLink path="/join">Inscription</NavLink>
+      <NavLink path="/contact">Contact</NavLink>
     </nav>
   );
 };

@@ -2,6 +2,8 @@ import {GetStaticProps, NextPage} from "next";
 import matter from "gray-matter";
 import Head from "next/head";
 
+import cs from "./index.module.scss";
+
 type Post = {
   id: number;
   title: string;
@@ -57,11 +59,13 @@ const BlogPage: NextPage<Props> = props => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>
-        <h1>La vie du club</h1>
-        <h2>Liste des articles</h2>
-        <ul>{props.posts.map(post => post && <li key={post.id}>{post.title}</li>)}</ul>
-      </main>
+      <h1 className={cs.title}>
+        Club d'échecs
+        <br />
+        <span className={cs.orange}>Veigy</span>
+        <span className={cs.red}>-Foncenex</span>
+      </h1>
+      <ul>{props.posts.map(post => post && <li key={post.id}>{post.title}</li>)}</ul>
     </>
   );
 };
