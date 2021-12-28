@@ -1,3 +1,5 @@
+@import "../theme";
+
 .container {
   position: fixed;
   top: 0;
@@ -12,4 +14,15 @@
 .main {
   overflow-y: auto;
   padding: 0 8rem;
+  position: relative;
+  background: $white url(./background.png);
+}
+
+.fade {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  height: 50vh;
+  background: linear-gradient(180deg, rgba($white, 1) 50%, rgba($white, 0) 100%);
 }

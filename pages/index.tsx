@@ -62,10 +62,9 @@ const BlogPage: NextPage<Props> = props => {
       <h1 className={cs.title}>
         Club d'échecs
         <br />
-        <span className={cs.orange}>Veigy</span>
-        <span className={cs.red}>-Foncenex</span>
+        <strong>Veigy-Foncenex</strong>
       </h1>
-      <ul>{props.posts.map(post => post && <li key={post.id}>{post.title}</li>)}</ul>
+      <ul className={cs.posts}>{props.posts.map(post => post && <li key={post.id}>{post.title}</li>)}</ul>
     </>
   );
 };

@@ -1,14 +1,20 @@
 @import "../theme";
 
 .title {
+  position: relative;
   text-transform: uppercase;
   font-size: 3rem;
 
-  .orange {
-    color: $orange;
+  strong {
+    background-image: linear-gradient(45deg, $orange, $red);
+    background-size: 100%;
+    background-repeat: repeat;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
   }
+}
 
-  .red {
-    color: $red;
-  }
+.posts {
+  position: relative;
 }

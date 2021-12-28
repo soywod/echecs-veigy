@@ -11,6 +11,7 @@ const App: FC<AppProps> = ({Component, pageProps}) => {
       <div className={cs.container}>
         <Nav />
         <main className={cs.main}>
+          <div className={cs.fade} />
           <Component {...pageProps} />
         </main>
       </div>
