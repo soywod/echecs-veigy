@@ -1,0 +1,36 @@
+@import "../theme";
+
+.nav {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 16rem;
+  background: $black;
+  padding: 0 2rem;
+}
+
+.logo {
+  transform-origin: top center;
+  transform: scale(1.5) translateX(1.5rem);
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+  text-align: right;
+}
+
+.link {
+  color: $white;
+  font-size: 1.75rem;
+  padding: 0.75rem 0;
+  cursor: pointer;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.footer {
+  color: $white;
+  text-align: center;
+}

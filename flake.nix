@@ -1,5 +1,6 @@
 {
   description = "Website for the chess club of Veigy-Foncenex.";
+
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-21.11";
     utils.url = "github:numtide/flake-utils";
@@ -8,6 +9,7 @@
       flake = false;
     };
   };
+
   outputs = { self, nixpkgs, utils, ... }:
     utils.lib.eachDefaultSystem
       (system:
@@ -16,36 +18,37 @@
           pkgs = import nixpkgs { inherit system; };
           yarn-run = "yarn run --offline --ignore-scripts --ignore-engines --";
         in
-          rec {
-            # nix build
-            defaultPackage = pkgs.yarn2nix-moretea.mkYarnPackage {
-              inherit name;
-              src = ./.;
-              extraBuildInputs = with pkgs.nodePackages; [
-                prettier
-                typescript
-                typescript-language-server
-                vscode-json-languageserver
-              ];
-              configurePhase = ''
-                ln -s $node_modules node_modules
-              '';
-              buildPhase = ''
-                ${yarn-run} next build
-                ${yarn-run} next export -o $out
-              '';
-              installPhase = ''
-                exit
-              '';
-              distPhase = ''
-                exit
-              '';
-            };            
+        rec {
+          # nix build
+          defaultPackage = pkgs.yarn2nix-moretea.mkYarnPackage {
+            inherit name;
+            src = ./.;
+            extraBuildInputs = with pkgs.nodePackages; [
+              prettier
+              typescript
+              typescript-language-server
+              vscode-json-languageserver
+              vscode-css-languageserver-bin
+            ];
+            configurePhase = ''
+              ln -s $node_modules node_modules
+            '';
+            buildPhase = ''
+              ${yarn-run} next build
+              ${yarn-run} next export -o $out
+            '';
+            installPhase = ''
+              exit
+            '';
+            distPhase = ''
+              exit
+            '';
+          };
 
-            # nix develop
-            devShell = pkgs.mkShell {
-              inputsFrom = [ self.defaultPackage.${system} ];
-            };
-          }
+          # nix develop
+          devShell = pkgs.mkShell {
+            inputsFrom = [ self.defaultPackage.${system} ];
+          };
+        }
       );
 }
