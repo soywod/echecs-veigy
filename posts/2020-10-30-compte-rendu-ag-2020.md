@@ -25,4 +25,4 @@ Julien Da Costa
 
   
 
-![](https://echecs-veigy.fr/wp-content/uploads/2020/10/24876.b9db3b03.1200x674o.78f9ae1d0f18.jpeg)
+![](/wordpress-uploads/2020/10/24876.b9db3b03.1200x674o.78f9ae1d0f18.jpeg)

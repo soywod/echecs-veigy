@@ -6,7 +6,7 @@ categories:
   - "vie-du-club"
 ---
 
-![](https://echecs-veigy.fr/wp-content/uploads/2021/10/SebastienJoie.png)
+![](/wordpress-uploads/2021/10/SebastienJoie.png)
 
 ### Résumé du match par le Capitaine d'équipe Sébastien Joie  
 
@@ -16,7 +16,7 @@ Notre équipe a fière allure : 4 habitués devant (**Seb, Gilles, Jool et Dav*
 
 En face, Annecy n'a pas aligné sa meilleure équipe, de sorte que nous semblons favoris sur les 4 premiers échiquiers, tandis que les confrontations devraient être équilibrées derrière.
 
-![](https://echecs-veigy.fr/wp-content/uploads/2020/09/chessPieces.jpg)
+![](/wordpress-uploads/2020/09/chessPieces.jpg)
 
 #### Voici un bref résumé, dans l'ordre chronologique :
 

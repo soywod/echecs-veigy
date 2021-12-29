@@ -7,7 +7,7 @@ categories:
 
 Le club d'échecs vous souhaite une bonne rentrée à toutes et tous !
 
-![](https://echecs-veigy.fr/wp-content/uploads/2021/09/chessForum2021-1024x841.jpg)
+![](/wordpress-uploads/2021/09/chessForum2021-1024x841.jpg)
 
 Nous serons présents ce samedi 4 septembre au forum des associations de 8h30 à 12h30 !
 

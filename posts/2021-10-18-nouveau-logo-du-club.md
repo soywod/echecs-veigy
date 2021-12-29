@@ -11,4 +11,4 @@ Le club fêtera ses 10 ans en 2022, il était donc temps de redonner un coup de 
 
 A bientôt autour de l'échiquier ;)
 
-![](https://echecs-veigy.fr/wp-content/uploads/2021/10/Logo-medium2021-Square.png)
+![](/wordpress-uploads/2021/10/Logo-medium2021-Square.png)

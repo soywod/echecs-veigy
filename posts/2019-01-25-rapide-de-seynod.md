@@ -20,18 +20,18 @@ C’est Lucas Di Nicolantonio du club de Chambéry qui remporte le tournoi princ
 
 Bravo à l’ensemble de la délégation veigycienne pour ces bons résultats et la très bonne ambiance qui nous motivent pour y retourner l’année prochaine.
 
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/1548077225723.jpg)
+- ![](/wordpress-uploads/2019/01/1548077225723.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/1548077225804.jpg)
+- ![](/wordpress-uploads/2019/01/1548077225804.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/1548077225869.jpg)
+- ![](/wordpress-uploads/2019/01/1548077225869.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/1548077225949.jpg)
+- ![](/wordpress-uploads/2019/01/1548077225949.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/1548077227209.jpg)
+- ![](/wordpress-uploads/2019/01/1548077227209.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/1548077227280.jpg)
+- ![](/wordpress-uploads/2019/01/1548077227280.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/1548077227351.jpg)
+- ![](/wordpress-uploads/2019/01/1548077227351.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/1548077227423.jpg)
+- ![](/wordpress-uploads/2019/01/1548077227423.jpg)

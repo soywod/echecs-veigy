@@ -10,4 +10,4 @@ categories:
 
  
 
-![](https://echecs-veigy.fr/wp-content/uploads/2018/06/chess3-724x1024.png)
+![](/wordpress-uploads/2018/06/chess3-724x1024.png)

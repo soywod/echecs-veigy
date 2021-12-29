@@ -9,8 +9,8 @@ categories:
 
 Ce dernier a été redessiné et se pare désormais des couleurs rouge et or de Veigy-foncenex ! Un petit cadeau avant noël ;)
 
-![](https://echecs-veigy.fr/wp-content/uploads/2018/12/Logo-medium_couleurs.png)
+![](/wordpress-uploads/2018/12/Logo-medium_couleurs.png)
 
 La version noir et blanc sera encore présente sur les supports sans couleur
 
-![](https://echecs-veigy.fr/wp-content/uploads/2018/12/Logo-medium_NB.png)
+![](/wordpress-uploads/2018/12/Logo-medium_NB.png)

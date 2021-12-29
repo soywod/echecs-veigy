@@ -19,10 +19,10 @@ L’école de Veigy était qualifiée d’office pour cet événement car elle a
 
 Un beau résultat pour nos jeunes et un joli rayonnement pour notre village sur la scène échiquéenne. Félicitations à tous les jeunes qui ont participé à cette compétition : Nicolas HORN, Kyan et Yannis BREW-SMITH, Antoine CAROBBIO, Louis JOURDAIN, Camille VIEIRA DE MELLO et Antonin SALZARD. Le club tient à remercier Marjorie SUATON pour son implication personnelle et son engagement professionnelle dans le projet « échecs à l’école » qui permet à un maximum de jeunes de pratiquer les échecs et de participer à des compétitions inter-scolaires.
 
-- ![](https://echecs-veigy.fr/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-16.44.26-1-1024x768.jpeg)
+- ![](/wordpress-uploads/2020/10/WhatsApp-Image-2020-10-14-at-16.44.26-1-1024x768.jpeg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-16.29.21-2-1024x576.jpeg)
+- ![](/wordpress-uploads/2020/10/WhatsApp-Image-2020-10-14-at-16.29.21-2-1024x576.jpeg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-18.03.20-1-1-1024x768.jpeg)
+- ![](/wordpress-uploads/2020/10/WhatsApp-Image-2020-10-14-at-18.03.20-1-1-1024x768.jpeg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-18.03.20-3-1024x768.jpeg)
+- ![](/wordpress-uploads/2020/10/WhatsApp-Image-2020-10-14-at-18.03.20-3-1024x768.jpeg)

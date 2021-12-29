@@ -49,112 +49,112 @@ Mercredi ?? (Date à confirmer) – Championnat Scolaire Régionale à Chambér
 
 Dimanche 7 avril – N3 jeunes / Cadence longue / de 10h à 18h
 
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG_20190216_095532-1024x768.jpg)
+- ![](/wordpress-uploads/2019/02/IMG_20190216_095532-1024x768.jpg)
     
     ptr
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG_20190216_095533-1024x768.jpg)
+- ![](/wordpress-uploads/2019/02/IMG_20190216_095533-1024x768.jpg)
     
     ptr
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG_20190216_095537-1024x768.jpg)
+- ![](/wordpress-uploads/2019/02/IMG_20190216_095537-1024x768.jpg)
     
     ptr
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG_20190216_095924-1024x768.jpg)
+- ![](/wordpress-uploads/2019/02/IMG_20190216_095924-1024x768.jpg)
     
     ptr
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG_20190216_095927-1024x768.jpg)
+- ![](/wordpress-uploads/2019/02/IMG_20190216_095927-1024x768.jpg)
     
     ptr
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG_20190216_101458-1024x768.jpg)
+- ![](/wordpress-uploads/2019/02/IMG_20190216_101458-1024x768.jpg)
     
     ptr
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG_20190216_101500-1024x768.jpg)
+- ![](/wordpress-uploads/2019/02/IMG_20190216_101500-1024x768.jpg)
     
     ptr
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG_20190216_101501-1024x768.jpg)
+- ![](/wordpress-uploads/2019/02/IMG_20190216_101501-1024x768.jpg)
     
     ptr
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG_20190216_113845-1024x768.jpg)
+- ![](/wordpress-uploads/2019/02/IMG_20190216_113845-1024x768.jpg)
     
     ptr
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG_20190216_181636-1024x768.jpg)
+- ![](/wordpress-uploads/2019/02/IMG_20190216_181636-1024x768.jpg)
     
     ptroz
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG_20190216_181640-1024x768.jpg)
+- ![](/wordpress-uploads/2019/02/IMG_20190216_181640-1024x768.jpg)
     
     ptroz
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG_20190216_194816-1024x768.jpg)
+- ![](/wordpress-uploads/2019/02/IMG_20190216_194816-1024x768.jpg)
     
     ptr
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG_20190216_194824-1024x768.jpg)
+- ![](/wordpress-uploads/2019/02/IMG_20190216_194824-1024x768.jpg)
     
     ptr
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG_20190217_125610-1024x768.jpg)
+- ![](/wordpress-uploads/2019/02/IMG_20190217_125610-1024x768.jpg)
     
     ptr
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG_20190217_125854-1024x768.jpg)
+- ![](/wordpress-uploads/2019/02/IMG_20190217_125854-1024x768.jpg)
     
     rpt
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG_20190217_125855-1024x768.jpg)
+- ![](/wordpress-uploads/2019/02/IMG_20190217_125855-1024x768.jpg)
     
     rpt
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG_20190217_130409-1024x768.jpg)
+- ![](/wordpress-uploads/2019/02/IMG_20190217_130409-1024x768.jpg)
     
     ptr
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG_20190217_130415-1024x768.jpg)
+- ![](/wordpress-uploads/2019/02/IMG_20190217_130415-1024x768.jpg)
     
     ptr
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG_20190217_130426-1024x768.jpg)
+- ![](/wordpress-uploads/2019/02/IMG_20190217_130426-1024x768.jpg)
     
     ptr
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG_20190218_085940-768x1024.jpg)
+- ![](/wordpress-uploads/2019/02/IMG_20190218_085940-768x1024.jpg)
     
     ptroz
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG_20190218_085941-768x1024.jpg)
+- ![](/wordpress-uploads/2019/02/IMG_20190218_085941-768x1024.jpg)
     
     ptroz
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG_20190218_125954-1024x768.jpg)
+- ![](/wordpress-uploads/2019/02/IMG_20190218_125954-1024x768.jpg)
     
     ptr
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG_20190219_132906-1024x768.jpg)
+- ![](/wordpress-uploads/2019/02/IMG_20190219_132906-1024x768.jpg)
     
     ptroz
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG-20190216-WA0001-768x1024.jpg)
+- ![](/wordpress-uploads/2019/02/IMG-20190216-WA0001-768x1024.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG-20190217-WA0002-768x1024.jpg)
+- ![](/wordpress-uploads/2019/02/IMG-20190217-WA0002-768x1024.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG-20190217-WA0003-1024x768.jpg)
+- ![](/wordpress-uploads/2019/02/IMG-20190217-WA0003-1024x768.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG-20190218-WA0000-1024x768.jpg)
+- ![](/wordpress-uploads/2019/02/IMG-20190218-WA0000-1024x768.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG-20190218-WA0001-1024x768.jpg)
+- ![](/wordpress-uploads/2019/02/IMG-20190218-WA0001-1024x768.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG-20190218-WA0002-1024x768.jpg)
+- ![](/wordpress-uploads/2019/02/IMG-20190218-WA0002-1024x768.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG-20190218-WA0003-768x1024.jpg)
+- ![](/wordpress-uploads/2019/02/IMG-20190218-WA0003-768x1024.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG-20190218-WA0004-768x1024.jpg)
+- ![](/wordpress-uploads/2019/02/IMG-20190218-WA0004-768x1024.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/02/IMG-20190219-WA0000-1024x768.jpg)
+- ![](/wordpress-uploads/2019/02/IMG-20190219-WA0000-1024x768.jpg)

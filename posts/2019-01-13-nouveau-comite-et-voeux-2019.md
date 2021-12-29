@@ -5,7 +5,7 @@ categories:
   - "vie-du-club"
 ---
 
-![](https://echecs-veigy.fr/wp-content/uploads/2019/01/brush-year.png)
+![](/wordpress-uploads/2019/01/brush-year.png)
 
 Chers membres, chers parents,
 

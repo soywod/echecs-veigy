@@ -27,6 +27,6 @@ Meilleures salutations,
 
 Le comité
 
-![](https://echecs-veigy.fr/wp-content/uploads/2019/06/photo-6e-Rapide-1024x577.jpeg)
+![](/wordpress-uploads/2019/06/photo-6e-Rapide-1024x577.jpeg)
 
-![](https://echecs-veigy.fr/wp-content/uploads/2019/06/2-1-1024x768.jpeg)
+![](/wordpress-uploads/2019/06/2-1-1024x768.jpeg)

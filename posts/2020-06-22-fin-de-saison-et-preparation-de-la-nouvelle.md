@@ -22,4 +22,4 @@ En vous souhaitant au nom de tout le comité un très bel été 2020,
 Julien Da Costa  
 Président CEVF
 
-![](https://echecs-veigy.fr/wp-content/uploads/2020/06/bel_ete.png)
+![](/wordpress-uploads/2020/06/bel_ete.png)

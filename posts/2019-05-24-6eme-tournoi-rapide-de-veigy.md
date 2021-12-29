@@ -15,4 +15,4 @@ Au plaisir de vous y voir nombreux et nombreuses !
 
   
 
-![](https://echecs-veigy.fr/wp-content/uploads/2019/05/tournoi2019-724x1024.png)
+![](/wordpress-uploads/2019/05/tournoi2019-724x1024.png)

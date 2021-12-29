@@ -3,7 +3,7 @@ title: "Stage d’échecs de la Toussaint"
 date: "2019-10-21"
 ---
 
-![](https://echecs-veigy.fr/wp-content/uploads/2019/10/Stage-Toussaint-2019-1-731x1024.jpg)
+![](/wordpress-uploads/2019/10/Stage-Toussaint-2019-1-731x1024.jpg)
 
 Le club d'échecs de Veigy vous propose un stage d'échecs sur 4 après-midi pendant la deuxième semaine des vacances scolaires françaises du lundi 28 octobre au vendredi 01 novembre de 14h à 17h (sauf mercredi).
 

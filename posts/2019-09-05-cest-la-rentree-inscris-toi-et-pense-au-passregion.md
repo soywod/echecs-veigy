@@ -9,10 +9,10 @@ nous serons au forum des associations de Veigy ce samedi 7 de 8h30 à 14h, profi
 
 Les infos des cours ont été mise à jour sur la [page d'inscription](https://echecs-veigy.fr/inscriptioncontact/).
 
-![](https://echecs-veigy.fr/wp-content/uploads/2019/09/405_024_carte-Pass-Region.jpg)
+![](/wordpress-uploads/2019/09/405_024_carte-Pass-Region.jpg)
 
 Désormais vous pouvez bénéficier de 30€ de réduction en commandant le Pass'Region et en nous communicant votre numéro de carte Pass'Region lors de votre inscription. Pensez-y !
 
-![](https://echecs-veigy.fr/wp-content/uploads/2019/09/674_792_avantages-1024x512.jpg)
+![](/wordpress-uploads/2019/09/674_792_avantages-1024x512.jpg)
 
 Informations et commande sur [https://jeunes.auvergnerhonealpes.fr/](https://jeunes.auvergnerhonealpes.fr/)

@@ -28,42 +28,42 @@ Nolan Pohl termine 32e avec 1.5 points et Mathilde Badoc Di Palma termine 35e av
 
 Bravo à tous, merci à Marjorie et Jérémy pour le covoiturage et Rendez-vous au mois de mars pour la phase régionale.
 
-![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20190123_144131-1024x768.jpg)
+![](/wordpress-uploads/2019/01/IMG_20190123_144131-1024x768.jpg)
 
 ptr
 
-![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20190123_144135-1024x768.jpg)
+![](/wordpress-uploads/2019/01/IMG_20190123_144135-1024x768.jpg)
 
 ptr
 
-![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20190123_144141-1024x768.jpg)
+![](/wordpress-uploads/2019/01/IMG_20190123_144141-1024x768.jpg)
 
 ptr
 
-![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20190123_144233-1024x768.jpg)
+![](/wordpress-uploads/2019/01/IMG_20190123_144233-1024x768.jpg)
 
 ptr
 
-![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20190123_144316-1024x768.jpg)
+![](/wordpress-uploads/2019/01/IMG_20190123_144316-1024x768.jpg)
 
 ptr
 
-![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20190123_180551-1024x768.jpg)
+![](/wordpress-uploads/2019/01/IMG_20190123_180551-1024x768.jpg)
 
 ptr
 
-![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20190123_180555-1024x768.jpg)
+![](/wordpress-uploads/2019/01/IMG_20190123_180555-1024x768.jpg)
 
 rpt
 
-![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20190123_180558-1024x768.jpg)
+![](/wordpress-uploads/2019/01/IMG_20190123_180558-1024x768.jpg)
 
 rpt
 
-![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20190123_180606-1024x768.jpg)
+![](/wordpress-uploads/2019/01/IMG_20190123_180606-1024x768.jpg)
 
 rpt
 
-![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20190123_180612-1024x768.jpg)
+![](/wordpress-uploads/2019/01/IMG_20190123_180612-1024x768.jpg)
 
 rpt

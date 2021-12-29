@@ -6,7 +6,7 @@ categories:
   - "vie-du-club"
 ---
 
-![](https://echecs-veigy.fr/wp-content/uploads/2021/11/Blitz2021_4-724x1024.jpg)
+![](/wordpress-uploads/2021/11/Blitz2021_4-724x1024.jpg)
 
 Pour fêter la reprise de la compétition, le Club d’Échecs de Veigy-Foncenex organise son 1er tournoi de blitz le **dimanche 7 novembre 2021 à 14h**.
 

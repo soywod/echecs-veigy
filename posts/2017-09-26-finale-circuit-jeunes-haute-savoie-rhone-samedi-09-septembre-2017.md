@@ -14,16 +14,16 @@ Léa (1170) a aussi fait un bon tournoi. 2 défaites pour commencer contre un 15
 
 Donc un bon tournoi pour os jeunes pour commencer cette année prometteuse. Quelques photos ci dessous :
 
-[![](https://echecs-veigy.fr/wp-content/uploads/2017/09/WP_20170909_15_00_07_Pro-300x169.jpg)](https://echecs-veigy.fr/wp-content/uploads/2017/09/WP_20170909_15_00_07_Pro.jpg)
+[![](/wordpress-uploads/2017/09/WP_20170909_15_00_07_Pro-300x169.jpg)](/wordpress-uploads/2017/09/WP_20170909_15_00_07_Pro.jpg)
 
-[![](https://echecs-veigy.fr/wp-content/uploads/2017/09/WP_20170909_14_38_41_Pro-300x169.jpg)](https://echecs-veigy.fr/wp-content/uploads/2017/09/WP_20170909_14_38_41_Pro.jpg)
+[![](/wordpress-uploads/2017/09/WP_20170909_14_38_41_Pro-300x169.jpg)](/wordpress-uploads/2017/09/WP_20170909_14_38_41_Pro.jpg)
 
-[![](https://echecs-veigy.fr/wp-content/uploads/2017/09/WP_20170909_14_38_31_Pro-300x169.jpg)](https://echecs-veigy.fr/wp-content/uploads/2017/09/WP_20170909_14_38_31_Pro.jpg)
+[![](/wordpress-uploads/2017/09/WP_20170909_14_38_31_Pro-300x169.jpg)](/wordpress-uploads/2017/09/WP_20170909_14_38_31_Pro.jpg)
 
-[![](https://echecs-veigy.fr/wp-content/uploads/2017/09/WP_20170909_14_38_24_Pro-300x169.jpg)](https://echecs-veigy.fr/wp-content/uploads/2017/09/WP_20170909_14_38_24_Pro.jpg)
+[![](/wordpress-uploads/2017/09/WP_20170909_14_38_24_Pro-300x169.jpg)](/wordpress-uploads/2017/09/WP_20170909_14_38_24_Pro.jpg)
 
-[![](https://echecs-veigy.fr/wp-content/uploads/2017/09/WP_20170909_14_38_21_Pro-300x169.jpg)](https://echecs-veigy.fr/wp-content/uploads/2017/09/WP_20170909_14_38_21_Pro.jpg)
+[![](/wordpress-uploads/2017/09/WP_20170909_14_38_21_Pro-300x169.jpg)](/wordpress-uploads/2017/09/WP_20170909_14_38_21_Pro.jpg)
 
-[![](https://echecs-veigy.fr/wp-content/uploads/2017/09/WP_20170909_13_38_09_Pro-300x169.jpg)](https://echecs-veigy.fr/wp-content/uploads/2017/09/WP_20170909_13_38_09_Pro.jpg)
+[![](/wordpress-uploads/2017/09/WP_20170909_13_38_09_Pro-300x169.jpg)](/wordpress-uploads/2017/09/WP_20170909_13_38_09_Pro.jpg)
 
-[![](https://echecs-veigy.fr/wp-content/uploads/2017/09/WP_20170909_13_31_48_Pro-300x169.jpg)](https://echecs-veigy.fr/wp-content/uploads/2017/09/WP_20170909_13_31_48_Pro.jpg)
+[![](/wordpress-uploads/2017/09/WP_20170909_13_31_48_Pro-300x169.jpg)](/wordpress-uploads/2017/09/WP_20170909_13_31_48_Pro.jpg)

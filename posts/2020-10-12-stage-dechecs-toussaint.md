@@ -28,4 +28,4 @@ Ce stage est ouvert seulement à ceux qui vont **participer aux championnats 74 
 [Vente de billets en ligne](https://www.billetweb.fr/shop.php?event=stage-echecs-toussaint "Vente de billets en ligne")
 <script type="text/javascript" src="https://www.billetweb.fr/js/export.js"></script>
 
-![](https://echecs-veigy.fr/wp-content/uploads/2020/10/Stage-CEVF-2020-731x1024.jpg)
+![](/wordpress-uploads/2020/10/Stage-CEVF-2020-731x1024.jpg)

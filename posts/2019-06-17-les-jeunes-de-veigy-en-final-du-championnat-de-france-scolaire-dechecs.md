@@ -6,7 +6,7 @@ categories:
   - "vie-du-club"
 ---
 
-![](https://echecs-veigy.fr/wp-content/uploads/2019/06/groupe-1024x768.jpeg)
+![](/wordpress-uploads/2019/06/groupe-1024x768.jpeg)
 
 Nos champions !
 
@@ -16,13 +16,13 @@ La phase finale du championnat de France scolaire d'échecs s'est déroulée en 
 
 \-
 
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/06/1-1024x578.jpeg)
+- ![](/wordpress-uploads/2019/06/1-1024x578.jpeg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/06/2-1024x578.jpeg)
+- ![](/wordpress-uploads/2019/06/2-1024x578.jpeg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/06/3-768x1024.jpeg)
+- ![](/wordpress-uploads/2019/06/3-768x1024.jpeg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/06/4-1024x576.jpeg)
+- ![](/wordpress-uploads/2019/06/4-1024x576.jpeg)
     
 
 En lice avec les 27 meilleures équipes de France nos héros du jour terminent 18ème avec un score de 4 sur 9 dans un tournoi aux parties très serrées. [Grille de tournoi finale](http://www.echecs.asso.fr/Equipes.aspx?Groupe=678)

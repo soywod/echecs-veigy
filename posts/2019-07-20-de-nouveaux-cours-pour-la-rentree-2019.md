@@ -5,7 +5,7 @@ categories:
   - "vie-du-club"
 ---
 
-![](https://echecs-veigy.fr/wp-content/uploads/2019/07/villes-1024x172.jpg)
+![](/wordpress-uploads/2019/07/villes-1024x172.jpg)
 
   
 Fidèle à notre ambition de démocratiser la pratique des échecs,  

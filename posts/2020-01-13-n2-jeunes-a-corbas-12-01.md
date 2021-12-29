@@ -9,26 +9,26 @@ Le 12 janvier dernier, 8 jeunes du Club sont allés défendre les couleurs de Ve
 
 Photos des rondes 3 et 4 de N2 jeunes à Corbas le 12 janvier 2020.
 
-- ![](https://echecs-veigy.fr/wp-content/uploads/2020/01/IMG_4624-la.jpg)
+- ![](/wordpress-uploads/2020/01/IMG_4624-la.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2020/01/IMG_4633-la.jpg)
+- ![](/wordpress-uploads/2020/01/IMG_4633-la.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2020/01/IMG_4635-la.jpg)
+- ![](/wordpress-uploads/2020/01/IMG_4635-la.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2020/01/IMG_4636-la.jpg)
+- ![](/wordpress-uploads/2020/01/IMG_4636-la.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2020/01/IMG_4637-la.jpg)
+- ![](/wordpress-uploads/2020/01/IMG_4637-la.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2020/01/IMG_4638-la.jpg)
+- ![](/wordpress-uploads/2020/01/IMG_4638-la.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2020/01/IMG_4640-la.jpg)
+- ![](/wordpress-uploads/2020/01/IMG_4640-la.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2020/01/IMG_4673-la.jpg)
+- ![](/wordpress-uploads/2020/01/IMG_4673-la.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2020/01/IMG_4674-la.jpg)
+- ![](/wordpress-uploads/2020/01/IMG_4674-la.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2020/01/IMG_4675-la.jpg)
+- ![](/wordpress-uploads/2020/01/IMG_4675-la.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2020/01/IMG_4687-la.jpg)
+- ![](/wordpress-uploads/2020/01/IMG_4687-la.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2020/01/IMG_4698-la.jpg)
+- ![](/wordpress-uploads/2020/01/IMG_4698-la.jpg)

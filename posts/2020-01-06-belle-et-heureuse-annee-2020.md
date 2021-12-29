@@ -3,7 +3,7 @@ title: "Belle et heureuse année 2020"
 date: "2020-01-06"
 ---
 
-![](https://echecs-veigy.fr/wp-content/uploads/2020/01/brush-houx.jpg)
+![](/wordpress-uploads/2020/01/brush-houx.jpg)
 
 Chers membres, chers parents,
 
@@ -31,4 +31,4 @@ JD
 
 Président CEVF
 
-![](https://echecs-veigy.fr/wp-content/uploads/2020/01/2020-1024x337.jpg)
+![](/wordpress-uploads/2020/01/2020-1024x337.jpg)

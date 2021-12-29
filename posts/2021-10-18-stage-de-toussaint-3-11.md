@@ -29,4 +29,4 @@ Ce stage est ouvert à tous les jeunes du CEVF.
 
 N'hésitez pas à [nous contacter par email](mailto:echecs.veigy@gmail.com) ou par téléphone au 06 12 62 04 05 pour tout renseignent complémentaire.
 
-![](https://echecs-veigy.fr/wp-content/uploads/2021/10/EchecsStage2021-1-724x1024.png)
+![](/wordpress-uploads/2021/10/EchecsStage2021-1-724x1024.png)

@@ -9,4 +9,4 @@ Comme chaque année, nous préparons l'assemblé générale ordinaire du club. C
 
 Nous sommes heureux de vous convier à cette assemblée pour vous présenter le bilan de l'année écoulée et élire les nouveaux membres du bureau. Cette assemblée sera également l'occasion de vous remercier de vive voix pour votre accompagnement, votre intérêt et votre soutien à notre association.
 
-![](https://echecs-veigy.fr/wp-content/uploads/2020/10/212bee1876cd8be6060fe144b417d94a.jpg)
+![](/wordpress-uploads/2020/10/212bee1876cd8be6060fe144b417d94a.jpg)

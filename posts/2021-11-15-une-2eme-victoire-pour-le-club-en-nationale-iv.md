@@ -6,7 +6,7 @@ categories:
   - "vie-du-club"
 ---
 
-![](https://echecs-veigy.fr/wp-content/uploads/2021/10/SebastienJoie.png)
+![](/wordpress-uploads/2021/10/SebastienJoie.png)
 
 ###   
 Résumé du match par le Capitaine d'équipe Sébastien Joie  
@@ -17,7 +17,7 @@ Notre équipe est complète : toujours les 4 mêmes devant (**Seb, Jool, Gilles
 
 Sur le papier, le match semble équilibré, Cluses a aligné un 2150 au premier échiquier, contre qui j'ai jusqu'à présent un très mauvais score (une défaite et deux nulles) et, mis à part David au 4, qui a presque 200 points de plus que son adversaire, le reste des confrontations semble équilibré.
 
-![](https://echecs-veigy.fr/wp-content/uploads/2020/09/chessPieces.jpg)
+![](/wordpress-uploads/2020/09/chessPieces.jpg)
 
 Dans l'ordre chronologique des parties :
 

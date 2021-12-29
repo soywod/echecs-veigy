@@ -21,4 +21,4 @@ une très belle saison d'échecs,
 Julien Da Costa  
 Président CEVF  
 
-![](https://echecs-veigy.fr/wp-content/uploads/2020/09/chessPieces.jpg)
+![](/wordpress-uploads/2020/09/chessPieces.jpg)

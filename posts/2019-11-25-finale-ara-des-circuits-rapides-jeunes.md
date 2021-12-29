@@ -13,40 +13,40 @@ Après deux éditions en Haute-Savoie, les 95 jeunes venus de 7 départements di
 
 Les résultats sont consultables sur le [page fédérale du tournoi](http://www.echecs.asso.fr/FicheTournoi.aspx?Ref=49463). De nombreuses photos sont disponibles notamment sur le site de l’[Échiquier des Lions](https://www.echiquierdeslions.fr/2019/10/lozanne-2019-album-photo/) et de l’[Échecs Club de Corbas](http://www.echecsclubcorbas.fr/photos/index.php?/category/592) : merci à eux.
 
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.23.37-1024x768.jpeg)
+- ![](/wordpress-uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.23.37-1024x768.jpeg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.25.151.jpeg)
+- ![](/wordpress-uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.25.151.jpeg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.25.152.jpeg)
+- ![](/wordpress-uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.25.152.jpeg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.25.153.jpeg)
+- ![](/wordpress-uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.25.153.jpeg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.25.15.jpeg)
+- ![](/wordpress-uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.25.15.jpeg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.25.451.jpeg)
+- ![](/wordpress-uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.25.451.jpeg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.25.452.jpeg)
+- ![](/wordpress-uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.25.452.jpeg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.25.453.jpeg)
+- ![](/wordpress-uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.25.453.jpeg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.25.45.jpeg)
+- ![](/wordpress-uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.25.45.jpeg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.26.061.jpeg)
+- ![](/wordpress-uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.26.061.jpeg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.26.062.jpeg)
+- ![](/wordpress-uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.26.062.jpeg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.26.063.jpeg)
+- ![](/wordpress-uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.26.063.jpeg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.26.06.jpeg)
+- ![](/wordpress-uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.26.06.jpeg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.26.441.jpeg)
+- ![](/wordpress-uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.26.441.jpeg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.26.442.jpeg)
+- ![](/wordpress-uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.26.442.jpeg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.26.443.jpeg)
+- ![](/wordpress-uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.26.443.jpeg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.26.44-768x1024.jpeg)
+- ![](/wordpress-uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.26.44-768x1024.jpeg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.39.30-1024x768.jpeg)
+- ![](/wordpress-uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.39.30-1024x768.jpeg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.40.28.jpeg)
+- ![](/wordpress-uploads/2019/11/WhatsApp-Image-2019-10-05-at-23.40.28.jpeg)

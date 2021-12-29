@@ -20,26 +20,26 @@ A l’issu des 9 rondes, ils se positionnent en tête du classement avec un sans
 
 Un grand bravo à tous les jeunes qui ont participé de près ou de loin à cette montée et rendez-vous en N2 pour de nouvelles aventures.
 
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/04/IMG_20190407_144957-1024x768.jpg)
+- ![](/wordpress-uploads/2019/04/IMG_20190407_144957-1024x768.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/04/IMG_20190407_145007-1024x768.jpg)
+- ![](/wordpress-uploads/2019/04/IMG_20190407_145007-1024x768.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/04/IMG_20190407_145016-1024x768.jpg)
+- ![](/wordpress-uploads/2019/04/IMG_20190407_145016-1024x768.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/04/IMG_20190407_145028-1024x768.jpg)
+- ![](/wordpress-uploads/2019/04/IMG_20190407_145028-1024x768.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/04/IMG_20190407_145032-1024x768.jpg)
+- ![](/wordpress-uploads/2019/04/IMG_20190407_145032-1024x768.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/04/IMG_20190407_145125-1024x768.jpg)
+- ![](/wordpress-uploads/2019/04/IMG_20190407_145125-1024x768.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/04/IMG_20190407_145127-1024x768.jpg)
+- ![](/wordpress-uploads/2019/04/IMG_20190407_145127-1024x768.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/04/IMG_20190407_145136-1024x768.jpg)
+- ![](/wordpress-uploads/2019/04/IMG_20190407_145136-1024x768.jpg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/04/WhatsApp-Image-2019-04-07-at-10.26.20-1024x578.jpeg)
+- ![](/wordpress-uploads/2019/04/WhatsApp-Image-2019-04-07-at-10.26.20-1024x578.jpeg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/04/WhatsApp-Image-2019-04-07-at-10.28.11-1024x578.jpeg)
+- ![](/wordpress-uploads/2019/04/WhatsApp-Image-2019-04-07-at-10.28.11-1024x578.jpeg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/04/WhatsApp-Image-2019-04-07-at-10.28.24-1024x578.jpeg)
+- ![](/wordpress-uploads/2019/04/WhatsApp-Image-2019-04-07-at-10.28.24-1024x578.jpeg)
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/04/WhatsApp-Image-2019-04-07-at-10.28.34-1024x578.jpeg)
+- ![](/wordpress-uploads/2019/04/WhatsApp-Image-2019-04-07-at-10.28.34-1024x578.jpeg)

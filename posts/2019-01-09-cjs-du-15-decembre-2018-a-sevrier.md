@@ -47,122 +47,122 @@ categories:
 
 **Merci à tous de votre participation**, enfants et parents pour le co-voiturage. Pour la petite anecdote, ce jour-là le club de Veigy remporte la coupe du 1er Club grâce aux beaux résultats de nos jeunes motivés.
 
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20181215_143443-1024x768.jpg)
+- ![](/wordpress-uploads/2019/01/IMG_20181215_143443-1024x768.jpg)
     
     ptr
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20181215_143453-768x1024.jpg)
+- ![](/wordpress-uploads/2019/01/IMG_20181215_143453-768x1024.jpg)
     
     ptr
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20181215_143457-768x1024.jpg)
+- ![](/wordpress-uploads/2019/01/IMG_20181215_143457-768x1024.jpg)
     
     ptr
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20181215_143504-768x1024.jpg)
+- ![](/wordpress-uploads/2019/01/IMG_20181215_143504-768x1024.jpg)
     
     ptr
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20181215_143509-768x1024.jpg)
+- ![](/wordpress-uploads/2019/01/IMG_20181215_143509-768x1024.jpg)
     
     ptr
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20181215_143541-768x1024.jpg)
+- ![](/wordpress-uploads/2019/01/IMG_20181215_143541-768x1024.jpg)
     
     ptr
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20181215_143549-768x1024.jpg)
+- ![](/wordpress-uploads/2019/01/IMG_20181215_143549-768x1024.jpg)
     
     rpt
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20181215_143603-768x1024.jpg)
+- ![](/wordpress-uploads/2019/01/IMG_20181215_143603-768x1024.jpg)
     
     rpt
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20181215_143739-1024x768.jpg)
+- ![](/wordpress-uploads/2019/01/IMG_20181215_143739-1024x768.jpg)
     
     ptr
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20181215_143742-1024x768.jpg)
+- ![](/wordpress-uploads/2019/01/IMG_20181215_143742-1024x768.jpg)
     
     ptr
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20181215_143754-1024x768.jpg)
+- ![](/wordpress-uploads/2019/01/IMG_20181215_143754-1024x768.jpg)
     
     ptr
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20181215_143806-1024x768.jpg)
+- ![](/wordpress-uploads/2019/01/IMG_20181215_143806-1024x768.jpg)
     
     ptr
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20181215_143814-1024x768.jpg)
+- ![](/wordpress-uploads/2019/01/IMG_20181215_143814-1024x768.jpg)
     
     rpt
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20181215_143821-1024x768.jpg)
+- ![](/wordpress-uploads/2019/01/IMG_20181215_143821-1024x768.jpg)
     
     ptr
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20181215_145255-1024x768.jpg)
+- ![](/wordpress-uploads/2019/01/IMG_20181215_145255-1024x768.jpg)
     
     ptr
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20181215_145257-1024x768.jpg)
+- ![](/wordpress-uploads/2019/01/IMG_20181215_145257-1024x768.jpg)
     
     ptr
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20181215_183023-1024x768.jpg)
+- ![](/wordpress-uploads/2019/01/IMG_20181215_183023-1024x768.jpg)
     
     fptbty
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20181215_183545-1024x768.jpg)
+- ![](/wordpress-uploads/2019/01/IMG_20181215_183545-1024x768.jpg)
     
     ptroz
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20181215_183547-1024x768.jpg)
+- ![](/wordpress-uploads/2019/01/IMG_20181215_183547-1024x768.jpg)
     
     ptroz
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20181215_183557-1024x768.jpg)
+- ![](/wordpress-uploads/2019/01/IMG_20181215_183557-1024x768.jpg)
     
     ptroz
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20181215_183559-1024x768.jpg)
+- ![](/wordpress-uploads/2019/01/IMG_20181215_183559-1024x768.jpg)
     
     ptroz
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20181215_183626-1024x768.jpg)
+- ![](/wordpress-uploads/2019/01/IMG_20181215_183626-1024x768.jpg)
     
     ptroz
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20181215_183627-1024x768.jpg)
+- ![](/wordpress-uploads/2019/01/IMG_20181215_183627-1024x768.jpg)
     
     ptroz
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20181215_183829-1024x768.jpg)
+- ![](/wordpress-uploads/2019/01/IMG_20181215_183829-1024x768.jpg)
     
     ptroz
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20181215_183829_1-1024x768.jpg)
+- ![](/wordpress-uploads/2019/01/IMG_20181215_183829_1-1024x768.jpg)
     
     ptroz
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20181215_184221-1024x768.jpg)
+- ![](/wordpress-uploads/2019/01/IMG_20181215_184221-1024x768.jpg)
     
     ptroz
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20181215_184223-1024x768.jpg)
+- ![](/wordpress-uploads/2019/01/IMG_20181215_184223-1024x768.jpg)
     
     ptroz
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20181215_184225-1024x768.jpg)
+- ![](/wordpress-uploads/2019/01/IMG_20181215_184225-1024x768.jpg)
     
     ptroz
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20181215_184230-1024x768.jpg)
+- ![](/wordpress-uploads/2019/01/IMG_20181215_184230-1024x768.jpg)
     
     ptroz
     
-- ![](https://echecs-veigy.fr/wp-content/uploads/2019/01/IMG_20181215_184231-1024x768.jpg)
+- ![](/wordpress-uploads/2019/01/IMG_20181215_184231-1024x768.jpg)
     
     ptroz
