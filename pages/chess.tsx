@@ -1,7 +1,7 @@
 import {NextPage} from "next";
 import Head from "next/head";
 
-const SubscriptionPage: NextPage = () => {
+const ChessPage: NextPage = () => {
   return (
     <>
       <Head>
@@ -10,11 +10,9 @@ const SubscriptionPage: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>
-        <h1>S'inscrire au club</h1>
-      </main>
+      <h1>Les échecs</h1>
     </>
   );
 };
 
-export default SubscriptionPage;
+export default ChessPage;

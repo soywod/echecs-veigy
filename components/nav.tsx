@@ -29,7 +29,7 @@ export const Nav: FC = () => {
       <NavLink path="/">Accueil</NavLink>
       <NavLink path="/about">À propos</NavLink>
       <NavLink path="/competition">Compétition</NavLink>
-      <NavLink path="/join">Inscription</NavLink>
+      <NavLink path="/registration">Inscription</NavLink>
       <NavLink path="/contact">Contact</NavLink>
     </nav>
   );

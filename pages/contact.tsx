@@ -1,6 +1,8 @@
 import {NextPage} from "next";
 import Head from "next/head";
 
+import {Title} from "../components";
+
 const ContactPage: NextPage = () => {
   return (
     <>
@@ -10,9 +12,9 @@ const ContactPage: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>
-        <h1>Nous contacter</h1>
-      </main>
+      <Title>
+        Nous <strong>contacter</strong>
+      </Title>
     </>
   );
 };

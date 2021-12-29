@@ -3,7 +3,7 @@ import Head from "next/head";
 
 import {Title} from "../components";
 
-const CompetitionPage: NextPage = () => {
+const ClubPage: NextPage = () => {
   return (
     <>
       <Head>
@@ -13,10 +13,10 @@ const CompetitionPage: NextPage = () => {
       </Head>
 
       <Title>
-        Nos <strong>tournois</strong>
+        À propos <strong>du club</strong>
       </Title>
     </>
   );
 };
 
-export default CompetitionPage;
+export default ClubPage;

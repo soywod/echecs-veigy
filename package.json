@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "devDependencies": {
+    "@netlify/plugin-nextjs": "^4.1.1",
     "@types/classnames": "^2.3.1",
     "@types/eslint": "^8.2.0",
     "@types/netlify-identity-widget": "^1.9.2",
@@ -27,8 +28,6 @@
   },
   "scripts": {
     "start": "next dev",
-    "prebuild": "rimraf result",
-    "build": "next build",
-    "postbuild": "next export -o result"
+    "build": "next build"
   }
 }

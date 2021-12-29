@@ -1,7 +1,9 @@
+import React from "react";
 import {GetStaticProps, NextPage} from "next";
-import matter from "gray-matter";
 import Head from "next/head";
+import matter from "gray-matter";
 
+import {Title} from "../components";
 import cs from "./index.module.scss";
 
 type Post = {
@@ -59,12 +61,16 @@ const BlogPage: NextPage<Props> = props => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <h1 className={cs.title}>
+      <Title>
         Club d'échecs
         <br />
         <strong>Veigy-Foncenex</strong>
-      </h1>
-      <ul className={cs.posts}>{props.posts.map(post => post && <li key={post.id}>{post.title}</li>)}</ul>
+      </Title>
+      <ul className={cs.posts}>
+        {props.posts.map(post => (
+          <li key={post.id}>{post.title}</li>
+        ))}
+      </ul>
     </>
   );
 };
