@@ -10,11 +10,27 @@
 }
 
 .post {
+  border-radius: 0.5rem;
+  overflow: hidden;
   display: grid;
   margin: 0.5rem;
   flex-grow: 1;
   height: 15rem;
   position: relative;
+  border: 0.25rem solid transparent;
+  cursor: pointer;
+
+  &:hover {
+    .fade {
+      background: linear-gradient(0deg, $black, transparent);
+      height: 100%;
+    }
+
+    .title {
+      color: $white;
+      border-bottom: 0.4rem solid $orange;
+    }
+  }
 }
 
 .thumbnail {
@@ -28,7 +44,9 @@
   left: 0px;
   right: 0px;
   height: 50%;
-  background: linear-gradient(0deg, $black, transparent);
+  background: linear-gradient(0deg, rgba($black, 0.8), transparent);
+  transition-duration: 125ms;
+  transition-property: background, height;
 }
 
 .title {
@@ -38,7 +56,10 @@
   align-self: end;
   text-align: center;
   justify-self: center;
-  color: $white;
+  color: rgba($white, 0.75);
   font-size: 1rem;
   padding: 0.5rem;
+  transition-duration: 125ms;
+  transition-property: border, color;
+  border-bottom: 0 solid $orange;
 }

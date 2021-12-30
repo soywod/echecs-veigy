@@ -15,7 +15,7 @@ type Post = {
 };
 
 type SerializedPost = {
-  [K in keyof Post]: string;
+  [K in keyof Post]: string | null;
 };
 
 function parsePost(module: any, idx: number): Post {
