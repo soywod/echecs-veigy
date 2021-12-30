@@ -8,7 +8,7 @@ categories:
 
 ## EVIAN – VEIGY-FONCENEX.
 
-![competitionV](http://echecs-veigy.fr/wp-content/uploads/2015/10/competitionV-300x300.png)
+![competitionV](/wordpress-uploads/2015/10/competitionV-300x300.png)
 
 Nous nous sommes engagés cette année en Coupe de France pour la première fois de notre histoire. Nous ne partions pas favori face à Evian et son équipe très homogène. Cependant, ce match commença par une belle surprise avec la victoire rapide de Samuel (1040) au 4ème échiquier face à un Jean-Luc LURVOIS (1492) pris à froid et dont les 450 points d’ELO de plus n’ont en rien impressionné Samuel. L’équipe d’Evian égalisait rapidement avec Arthur WAMBST (1463) qui profitait d’une erreur de Julien (1399) pour gagner.
 

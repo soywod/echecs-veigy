@@ -11,22 +11,22 @@ categories:
 
 ## Partie 1
 
-[![](http://echecs-veigy.fr/wp-content/uploads/2017/01/Schéma-mat-1.jpg)](http://echecs-veigy.fr/wp-content/uploads/2017/01/Schéma-mat-1.jpg)
+[![](/wordpress-uploads/2017/01/Schéma-mat-1.jpg)](/wordpress-uploads/2017/01/Schéma-mat-1.jpg)
 
 * * *
 
 ## Partie 2
 
-[![](http://echecs-veigy.fr/wp-content/uploads/2017/01/Schéma-mat-2.jpg)](http://echecs-veigy.fr/wp-content/uploads/2017/01/Schéma-mat-2.jpg)
+[![](/wordpress-uploads/2017/01/Schéma-mat-2.jpg)](/wordpress-uploads/2017/01/Schéma-mat-2.jpg)
 
 * * *
 
 ## Partie 3
 
-[![](http://echecs-veigy.fr/wp-content/uploads/2017/01/schémas-mat-3.jpg)](http://echecs-veigy.fr/wp-content/uploads/2017/01/schémas-mat-3.jpg)
+[![](/wordpress-uploads/2017/01/schémas-mat-3.jpg)](/wordpress-uploads/2017/01/schémas-mat-3.jpg)
 
 * * *
 
 ## Partie 4
 
-[![](http://echecs-veigy.fr/wp-content/uploads/2017/01/schéma-mat-4.jpg)](http://echecs-veigy.fr/wp-content/uploads/2017/01/schéma-mat-4.jpg)
+[![](/wordpress-uploads/2017/01/schéma-mat-4.jpg)](/wordpress-uploads/2017/01/schéma-mat-4.jpg)

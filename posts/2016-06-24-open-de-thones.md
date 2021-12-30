@@ -10,4 +10,4 @@ L'open de Thônes a lieu du 23 au 29 Juillet 2016. Tout le monde peut participer
 
 Toutes les infos sur : http://www.thones-echecs.com/open/
 
-[2e Open Thônes](http://echecs-veigy.fr/wp-content/uploads/2016/06/2e-Open-Thônes.pdf)
+[2e Open Thônes](/wordpress-uploads/2016/06/2e-Open-Thônes.pdf)

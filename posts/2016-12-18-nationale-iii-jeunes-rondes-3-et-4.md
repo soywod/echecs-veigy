@@ -14,4 +14,4 @@ Notre équipe jeunes était à Annecy ce Dimanche 11 Décembre pour disputer les
 
 Journée difficile donc mais nous sommes deuxième au classement et nous avons les moyens de remporter d'autres matchs. Les rondes 5 et 6 auront lieu le Dimanche 30 Avril à Veigy-Foncenex.
 
-[![wp_20161211_10_10_13_pro](http://echecs-veigy.fr/wp-content/uploads/2016/12/WP_20161211_10_10_13_Pro-300x169.jpg)](http://echecs-veigy.fr/wp-content/uploads/2016/12/WP_20161211_10_10_13_Pro.jpg) [![wp_20161211_10_10_05_pro](http://echecs-veigy.fr/wp-content/uploads/2016/12/WP_20161211_10_10_05_Pro-300x169.jpg)](http://echecs-veigy.fr/wp-content/uploads/2016/12/WP_20161211_10_10_05_Pro.jpg)
+[![wp_20161211_10_10_13_pro](/wordpress-uploads/2016/12/WP_20161211_10_10_13_Pro-300x169.jpg)](/wordpress-uploads/2016/12/WP_20161211_10_10_13_Pro.jpg) [![wp_20161211_10_10_05_pro](/wordpress-uploads/2016/12/WP_20161211_10_10_05_Pro-300x169.jpg)](/wordpress-uploads/2016/12/WP_20161211_10_10_05_Pro.jpg)

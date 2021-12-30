@@ -8,7 +8,7 @@ categories:
 
 La rentrée échiquéenne se fera le mardi 06 septembre :
 
-16h45-17h45 Cours enfants débutants[![IMG_2719](http://echecs-veigy.fr/wp-content/uploads/2016/08/IMG_2719-300x183.jpg)](http://echecs-veigy.fr/wp-content/uploads/2016/08/IMG_2719.jpg)
+16h45-17h45 Cours enfants débutants[![IMG_2719](/wordpress-uploads/2016/08/IMG_2719-300x183.jpg)](/wordpress-uploads/2016/08/IMG_2719.jpg)
 
 17h45-18h45 Cours enfants intermédiaires
 

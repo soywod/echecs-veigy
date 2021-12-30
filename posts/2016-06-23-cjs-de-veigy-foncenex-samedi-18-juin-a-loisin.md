@@ -6,7 +6,7 @@ categories:
   - "vie-du-club"
 ---
 
-[](http://echecs-veigy.fr/wp-content/uploads/2016/06/CJS-loisin-18.06.16.jpg)Alors que la communauté internationale des échecs déplorait encore la récente disparition à 85 ans du grand champion russe Viktor Kortchnoï, la jeune génération chablaisienne du club d’échecs de Veigy-Foncenex fourbissait ses armes à Loisin ce week-end lors du tournoi de la 6e et dernière phase du Challenge Jeunes des Savoie. Cette édition qui s'est déroulée à la salle des fêtes de Loisin le samedi 18 juin a rencontré un franc succès et a réuni 47 joueurs dont 18 du club d'échecs de Veigy-Foncenex. Au final des 6 rondes de 15 minutes, c’est Laurent SYLVESTRE-BARON (minime, 1670 ELO) qui s’est brillamment imposé avec 6 points sur 6. Deux membres du club d![CJS loisin 18.06.16](http://echecs-veigy.fr/wp-content/uploads/2016/06/CJS-loisin-18.06.16-213x300.jpg)e Veigy figurent dans le top 10.
+[](/wordpress-uploads/2016/06/CJS-loisin-18.06.16.jpg)Alors que la communauté internationale des échecs déplorait encore la récente disparition à 85 ans du grand champion russe Viktor Kortchnoï, la jeune génération chablaisienne du club d’échecs de Veigy-Foncenex fourbissait ses armes à Loisin ce week-end lors du tournoi de la 6e et dernière phase du Challenge Jeunes des Savoie. Cette édition qui s'est déroulée à la salle des fêtes de Loisin le samedi 18 juin a rencontré un franc succès et a réuni 47 joueurs dont 18 du club d'échecs de Veigy-Foncenex. Au final des 6 rondes de 15 minutes, c’est Laurent SYLVESTRE-BARON (minime, 1670 ELO) qui s’est brillamment imposé avec 6 points sur 6. Deux membres du club d![CJS loisin 18.06.16](/wordpress-uploads/2016/06/CJS-loisin-18.06.16-213x300.jpg)e Veigy figurent dans le top 10.
 
 Samuel DETRAZ (petit-poussin, 1320 ELO), vainqueur la semaine dernière à Bonneville, termine 6ème avec 4.5/6pts. Un résultat logique qui permet à Samuel de terminer 2ème du classement général. Lloyd VENNER (poussin, 1060 ELO) termine à une très belle 9ème place avec 4/6 pts. C’est son meilleur résultat dans ce type de tournoi après avoir déjà montré de belles choses à Evian (voir l’article). Une belle promesse pour l’année prochaine…
 
@@ -18,4 +18,4 @@ Le comité
 
  
 
-[CJS Veigy-Loisin - Grille Américaine après la ronde 6](http://echecs-veigy.fr/wp-content/uploads/2016/06/CJS-Veigy-Loisin-Grille-Américaine-après-la-ronde-6.htm)
+[CJS Veigy-Loisin - Grille Américaine après la ronde 6](/wordpress-uploads/2016/06/CJS-Veigy-Loisin-Grille-Américaine-après-la-ronde-6.htm)

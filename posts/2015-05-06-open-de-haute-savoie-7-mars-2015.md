@@ -5,7 +5,7 @@ categories:
   - "vie-du-club"
 ---
 
-[![1459079-0](http://echecs-veigy.fr/wp-content/uploads/2015/05/1459079-0-211x300.jpg)](http://echecs-veigy.fr/wp-content/uploads/2015/05/1459079-0.jpg)
+[![1459079-0](/wordpress-uploads/2015/05/1459079-0-211x300.jpg)](/wordpress-uploads/2015/05/1459079-0.jpg)
 
 Cette année, le Club d’Echecs de Veigy-Foncenex a organisé une phase de l’open de Haute-Savoie qui s’est déroulé sur 3 jours. Les quatre premières rondes ont eu lieu le samedi 28 février et le dimanche 1er mars à Nernier et nous avons accueillies les 10 participants chez nous le samedi 7 mars à la salle des fêtes de Veigy-Foncenex pour les rondes 5 et 6.
 

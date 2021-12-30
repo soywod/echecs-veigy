@@ -10,4 +10,4 @@ categories:
 
 ### 7 rondes de 2x20 minutes. Dimanche 7 juin.
 
-[![Open-de-bonne-7-juin-2015](http://echecs-veigy.fr/wp-content/uploads/2015/05/Open-de-bonne-7-juin-2015-221x300.jpeg)](http://echecs-veigy.fr/wp-content/uploads/2015/05/Open-de-bonne-7-juin-2015.jpeg)
+[![Open-de-bonne-7-juin-2015](/wordpress-uploads/2015/05/Open-de-bonne-7-juin-2015-221x300.jpeg)](/wordpress-uploads/2015/05/Open-de-bonne-7-juin-2015.jpeg)

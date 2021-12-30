@@ -8,7 +8,7 @@ categories:
 
 ### Nationale III Jeunes. Dimanche 13 Décembre.
 
-![151123_144119](http://echecs-veigy.fr/wp-content/uploads/2016/01/151123_144119-300x300.jpg)
+![151123_144119](/wordpress-uploads/2016/01/151123_144119-300x300.jpg)
 
 Rondes 3 et 4 contre l’équipe de Collonges Sous Salève.
 

@@ -5,7 +5,7 @@ categories:
   - "vie-du-club"
 ---
 
-![1er_rapide_final](http://echecs-veigy.fr/wp-content/uploads/2015/01/1er_rapide_final-232x300.gif)
+![1er_rapide_final](/wordpress-uploads/2015/01/1er_rapide_final-232x300.gif)
 
 Ami des Echecs bonjour,
 

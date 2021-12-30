@@ -17,7 +17,7 @@ Dans la catégorie Adulte le Maître international Yohan Benitah a remporté le 
 
 Du côté des enfants Evan Rouzaud décroche la victoire avec un sans-faute de 7 points sur 7, suivi de Thibault Martignoni deuxième avec 6 points et Alya Boukhenfra troisième avec 6 points également.
 
-![IMG_7461](http://echecs-veigy.fr/wp-content/uploads/2015/09/IMG_7461-300x200.jpg)
+![IMG_7461](/wordpress-uploads/2015/09/IMG_7461-300x200.jpg)
 
 Au vu de l'ambiance et de l'enthousiasme des participants, le comité leur a donné rendez-vous pour une troisième édition en 2016.
 

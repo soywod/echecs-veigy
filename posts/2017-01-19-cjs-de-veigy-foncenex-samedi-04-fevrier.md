@@ -14,4 +14,4 @@ Les inscriptions sont à effectuer par mail ou bien avec le lien suivant : [http
 
  
 
-[Document d'inscription CJS Veigy 04 février 2017](http://echecs-veigy.fr/wp-content/uploads/2017/01/CJS-Veigy-04-février-2017.docx)
+[Document d'inscription CJS Veigy 04 février 2017](/wordpress-uploads/2017/01/CJS-Veigy-04-février-2017.docx)

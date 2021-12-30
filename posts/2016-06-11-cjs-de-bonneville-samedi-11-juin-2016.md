@@ -12,16 +12,16 @@ categories:
 
 Résultats complets : http://www.echecs.asso.fr/Resultats.aspx?URL=Tournois/Id/37992/37992&Action=Ga
 
-\[caption id="attachment\_1128" align="alignnone" width="300"\][![Vue d'ensemble des participants](http://echecs-veigy.fr/wp-content/uploads/2016/06/WP_20160611_17_36_38_Pro-300x169.jpg)](http://echecs-veigy.fr/wp-content/uploads/2016/06/WP_20160611_17_36_38_Pro.jpg) Vue d'ensemble des participants\[/caption\]
+\[caption id="attachment\_1128" align="alignnone" width="300"\][![Vue d'ensemble des participants](/wordpress-uploads/2016/06/WP_20160611_17_36_38_Pro-300x169.jpg)](/wordpress-uploads/2016/06/WP_20160611_17_36_38_Pro.jpg) Vue d'ensemble des participants\[/caption\]
 
-\[caption id="attachment\_1125" align="alignnone" width="300"\][![Le premier tournoi de Jack](http://echecs-veigy.fr/wp-content/uploads/2016/06/WP_20160611_17_35_06_Pro-300x169.jpg)](http://echecs-veigy.fr/wp-content/uploads/2016/06/WP_20160611_17_35_06_Pro.jpg) Le premier tournoi de Jack\[/caption\]
+\[caption id="attachment\_1125" align="alignnone" width="300"\][![Le premier tournoi de Jack](/wordpress-uploads/2016/06/WP_20160611_17_35_06_Pro-300x169.jpg)](/wordpress-uploads/2016/06/WP_20160611_17_35_06_Pro.jpg) Le premier tournoi de Jack\[/caption\]
 
-\[caption id="attachment\_1122" align="alignnone" width="300"\][![La coupe du plus jeune pour Nicolas](http://echecs-veigy.fr/wp-content/uploads/2016/06/WP_20160611_18_24_47_Pro-300x169.jpg)](http://echecs-veigy.fr/wp-content/uploads/2016/06/WP_20160611_18_24_47_Pro.jpg) La coupe du plus jeune pour Nicolas\[/caption\]
+\[caption id="attachment\_1122" align="alignnone" width="300"\][![La coupe du plus jeune pour Nicolas](/wordpress-uploads/2016/06/WP_20160611_18_24_47_Pro-300x169.jpg)](/wordpress-uploads/2016/06/WP_20160611_18_24_47_Pro.jpg) La coupe du plus jeune pour Nicolas\[/caption\]
 
-\[caption id="attachment\_1124" align="alignnone" width="300"\][![Samuel Table 1 contre Laurent](http://echecs-veigy.fr/wp-content/uploads/2016/06/WP_20160611_16_50_44_Pro-300x169.jpg)](http://echecs-veigy.fr/wp-content/uploads/2016/06/WP_20160611_16_50_44_Pro.jpg) Samuel Table 1 contre Laurent\[/caption\]
+\[caption id="attachment\_1124" align="alignnone" width="300"\][![Samuel Table 1 contre Laurent](/wordpress-uploads/2016/06/WP_20160611_16_50_44_Pro-300x169.jpg)](/wordpress-uploads/2016/06/WP_20160611_16_50_44_Pro.jpg) Samuel Table 1 contre Laurent\[/caption\]
 
-\[caption id="attachment\_1129" align="alignnone" width="300"\][![La "finale" entre Samuel et Gabriel](http://echecs-veigy.fr/wp-content/uploads/2016/06/WP_20160611_17_36_15_Pro-300x169.jpg)](http://echecs-veigy.fr/wp-content/uploads/2016/06/WP_20160611_17_36_15_Pro.jpg) La "finale" entre Samuel et Gabriel\[/caption\]
+\[caption id="attachment\_1129" align="alignnone" width="300"\][![La "finale" entre Samuel et Gabriel](/wordpress-uploads/2016/06/WP_20160611_17_36_15_Pro-300x169.jpg)](/wordpress-uploads/2016/06/WP_20160611_17_36_15_Pro.jpg) La "finale" entre Samuel et Gabriel\[/caption\]
 
-\[caption id="attachment\_1127" align="alignnone" width="300"\][![C'est même 7/7 pts pour Samuel. Ici contre le 1er adjoint de Bonneville](http://echecs-veigy.fr/wp-content/uploads/2016/06/WP_20160611_18_10_19_Pro-300x169.jpg)](http://echecs-veigy.fr/wp-content/uploads/2016/06/WP_20160611_18_10_19_Pro.jpg) C'est même 7/7 pts pour Samuel. Ici contre le 1er adjoint de Bonneville\[/caption\]
+\[caption id="attachment\_1127" align="alignnone" width="300"\][![C'est même 7/7 pts pour Samuel. Ici contre le 1er adjoint de Bonneville](/wordpress-uploads/2016/06/WP_20160611_18_10_19_Pro-300x169.jpg)](/wordpress-uploads/2016/06/WP_20160611_18_10_19_Pro.jpg) C'est même 7/7 pts pour Samuel. Ici contre le 1er adjoint de Bonneville\[/caption\]
 
-\[caption id="attachment\_1123" align="alignnone" width="300"\][![Tous les primés du tournoi](http://echecs-veigy.fr/wp-content/uploads/2016/06/WP_20160611_18_36_56_Pro-300x169.jpg)](http://echecs-veigy.fr/wp-content/uploads/2016/06/WP_20160611_18_36_56_Pro.jpg) Tous les primés du tournoi\[/caption\]
+\[caption id="attachment\_1123" align="alignnone" width="300"\][![Tous les primés du tournoi](/wordpress-uploads/2016/06/WP_20160611_18_36_56_Pro-300x169.jpg)](/wordpress-uploads/2016/06/WP_20160611_18_36_56_Pro.jpg) Tous les primés du tournoi\[/caption\]

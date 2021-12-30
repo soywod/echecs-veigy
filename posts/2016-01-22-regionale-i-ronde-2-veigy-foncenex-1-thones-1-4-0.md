@@ -8,7 +8,7 @@ categories:
 
 ### Veigy-Foncenex 1 – Thones 1 (4-0).
 
-![competitionJ](http://echecs-veigy.fr/wp-content/uploads/2015/10/competitionJ-300x300.png)
+![competitionJ](/wordpress-uploads/2015/10/competitionJ-300x300.png)
 
 Dimanche 6 Décembre, nous affrontions l’équipe de Thônes pour la deuxième ronde de régionale I. Equipe de niveau sensiblement égal sur le papier excepté au 3ème échiquier ou Julien s’est rapidement imposé face à un jeune prometteur classé 1048.
 

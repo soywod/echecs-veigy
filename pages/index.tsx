@@ -1,5 +1,6 @@
 import React from "react";
 import {GetStaticProps, NextPage} from "next";
+import Img from "next/image";
 import Head from "next/head";
 import matter from "gray-matter";
 
@@ -10,6 +11,7 @@ type Post = {
   id: number;
   title: string;
   date: Date | string;
+  thumbnail: string | null;
 };
 
 type SerializedPost = {
@@ -17,8 +19,15 @@ type SerializedPost = {
 };
 
 function parsePost(module: any, idx: number): Post {
+  const thumbnailMatch = /\((\/wordpress-uploads\/.*?.(jpe?g|png|gif))\)/.exec(module.default);
+  const thumbnail = thumbnailMatch && 1 in thumbnailMatch ? thumbnailMatch[1] : null;
   const md = matter(module.default);
-  return {id: idx, title: md.data.title, date: md.data.date};
+  return {
+    id: idx,
+    title: md.data.title,
+    date: md.data.date,
+    thumbnail: md.data.thumbnail || thumbnail,
+  };
 }
 
 function orderPostsByDate(a: Post, b: Post): number {
@@ -34,6 +43,7 @@ function serializePost(post: Post): SerializedPost {
     id: post.id.toString(),
     title: post.title,
     date: post.date instanceof Date ? post.date.toDateString() : post.date,
+    thumbnail: post.thumbnail,
   };
 }
 
@@ -68,7 +78,11 @@ const BlogPage: NextPage<Props> = props => {
       </Title>
       <ul className={cs.posts}>
         {props.posts.map(post => (
-          <li key={post.id}>{post.title}</li>
+          <li key={post.id} className={cs.post}>
+            {post.thumbnail && <Img layout="fill" objectFit="cover" src={post.thumbnail} />}
+            <div className={cs.title}>{post.title}</div>
+            <div className={cs.fade} />
+          </li>
         ))}
       </ul>
     </>

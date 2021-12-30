@@ -10,7 +10,7 @@ Le Club d’Echecs de Veigy-Foncenex vous invite à son 4e tournoi rapide le dim
 
 166 B route du Chablais
 
-(Au-dessus de l'école maternelle)[![](http://echecs-veigy.fr/wp-content/uploads/2017/05/Rapide2017-207x300.png)](http://echecs-veigy.fr/wp-content/uploads/2017/05/Rapide2017.png)
+(Au-dessus de l'école maternelle)[![](/wordpress-uploads/2017/05/Rapide2017-207x300.png)](/wordpress-uploads/2017/05/Rapide2017.png)
 
 **Au programme 7 rondes de 2 x 15 minutes + 5 sec :**
 

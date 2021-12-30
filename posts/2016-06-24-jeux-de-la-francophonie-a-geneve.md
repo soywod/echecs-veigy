@@ -12,4 +12,4 @@ A partir du 26 Juin, la Fédération Genevoise des Echecs organise les jeux de l
 
 Plus d'infos sur le site : www.fge-echecs.ch
 
-[flyer\_semaine\_de\_la\_francophonie](http://echecs-veigy.fr/wp-content/uploads/2016/06/flyer_semaine_de_la_francophonie.pdf)
+[flyer\_semaine\_de\_la\_francophonie](/wordpress-uploads/2016/06/flyer_semaine_de_la_francophonie.pdf)

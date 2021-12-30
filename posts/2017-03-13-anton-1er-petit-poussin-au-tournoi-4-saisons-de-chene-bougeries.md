@@ -12,4 +12,4 @@ Le classement complet du tournoi :
 
 [http://www.chess-results.com/tnr267612.aspx?lan=20&art=4&wi=821](http://www.chess-results.com/tnr267612.aspx?lan=20&art=4&wi=821)
 
-[![](http://echecs-veigy.fr/wp-content/uploads/2017/03/WP_20170307_18_26_47_Pro-300x169.jpg)](http://echecs-veigy.fr/wp-content/uploads/2017/03/WP_20170307_18_26_47_Pro.jpg)
+[![](/wordpress-uploads/2017/03/WP_20170307_18_26_47_Pro-300x169.jpg)](/wordpress-uploads/2017/03/WP_20170307_18_26_47_Pro.jpg)

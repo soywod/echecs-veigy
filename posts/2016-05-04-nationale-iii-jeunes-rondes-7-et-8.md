@@ -24,6 +24,6 @@ Nous terminons ce championnat avec 1 victoire et 7 défaites et la dernière pla
 
 Les résultats complet de ce championnats sont ici : http://www.echecs.asso.fr/Equipes.aspx
 
-\[caption id="attachment\_1094" align="alignnone" width="300"\][![Collonges - Evian](http://echecs-veigy.fr/wp-content/uploads/2016/05/WP_20160501_10_26_44_Pro-300x169.jpg)](http://echecs-veigy.fr/wp-content/uploads/2016/05/WP_20160501_10_26_44_Pro.jpg) Collonges - Evian\[/caption\]
+\[caption id="attachment\_1094" align="alignnone" width="300"\][![Collonges - Evian](/wordpress-uploads/2016/05/WP_20160501_10_26_44_Pro-300x169.jpg)](/wordpress-uploads/2016/05/WP_20160501_10_26_44_Pro.jpg) Collonges - Evian\[/caption\]
 
-\[caption id="attachment\_1095" align="alignnone" width="300"\][![Annecy - Veigy](http://echecs-veigy.fr/wp-content/uploads/2016/05/WP_20160501_10_26_54_Pro-300x169.jpg)](http://echecs-veigy.fr/wp-content/uploads/2016/05/WP_20160501_10_26_54_Pro.jpg) Annecy - Veigy\[/caption\]
+\[caption id="attachment\_1095" align="alignnone" width="300"\][![Annecy - Veigy](/wordpress-uploads/2016/05/WP_20160501_10_26_54_Pro-300x169.jpg)](/wordpress-uploads/2016/05/WP_20160501_10_26_54_Pro.jpg) Annecy - Veigy\[/caption\]

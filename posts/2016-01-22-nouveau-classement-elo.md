@@ -7,7 +7,7 @@ categories:
 
 ### Les classement ELO du club.
 
-![chessHandplay2](http://echecs-veigy.fr/wp-content/uploads/2016/01/chessHandplay2-300x300.jpg)
+![chessHandplay2](/wordpress-uploads/2016/01/chessHandplay2-300x300.jpg)
 
 Le nouveau classement ELO vient de paraitre et il y a eu du mouvement au club.
 

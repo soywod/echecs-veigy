@@ -14,4 +14,4 @@ Ce Dimanche 27 Novembre s'est tenu les deux premières rondes de Nationale III J
 
 http://www.echecs.asso.fr/Equipes.aspx
 
-\[caption id="attachment\_1376" align="alignnone" width="300"\][![La dream team de cette première journée](http://echecs-veigy.fr/wp-content/uploads/2016/11/V__63BB-300x169.jpeg)](http://echecs-veigy.fr/wp-content/uploads/2016/11/V__63BB.jpeg) La dream team de cette première journée\[/caption\]
+\[caption id="attachment\_1376" align="alignnone" width="300"\][![La dream team de cette première journée](/wordpress-uploads/2016/11/V__63BB-300x169.jpeg)](/wordpress-uploads/2016/11/V__63BB.jpeg) La dream team de cette première journée\[/caption\]

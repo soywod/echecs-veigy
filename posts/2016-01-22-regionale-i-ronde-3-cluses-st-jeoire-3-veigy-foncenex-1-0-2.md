@@ -8,7 +8,7 @@ categories:
 
 ### Cluses St-Jeoire 3 – Veigy-Foncenex 1 (1-2).
 
-[![competitionB](http://echecs-veigy.fr/wp-content/uploads/2015/10/competitionB-300x300.png)](http://echecs-veigy.fr/wp-content/uploads/2015/10/competitionB.png)
+[![competitionB](/wordpress-uploads/2015/10/competitionB-300x300.png)](/wordpress-uploads/2015/10/competitionB.png)
 
 Dimanche 10 Janvier 2016, direction Cluses pour affronter l’équipe 3 de Cluses St-Jeoire et son armada de jeunes aux dents longues !!
 

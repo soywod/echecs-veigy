@@ -6,7 +6,7 @@ categories:
   - "vie-du-club"
 ---
 
-![151123_144119](http://echecs-veigy.fr/wp-content/uploads/2016/01/151123_144119-300x300.jpg)Dimanche 20 Mars, nous sommes allés affronter l'équipe expérimentée d'Evian avec parmi eux le champion régional pupille et de deux jeunes qualifiés pour les championnats de France (donc parmi les meilleurs régionaux de leur âge). Autant dire que nous ne partions pas favoris. Notre équipe était composé de Noé, Lloyd, Samuel et Alexia.
+![151123_144119](/wordpress-uploads/2016/01/151123_144119-300x300.jpg)Dimanche 20 Mars, nous sommes allés affronter l'équipe expérimentée d'Evian avec parmi eux le champion régional pupille et de deux jeunes qualifiés pour les championnats de France (donc parmi les meilleurs régionaux de leur âge). Autant dire que nous ne partions pas favoris. Notre équipe était composé de Noé, Lloyd, Samuel et Alexia.
 
 Nous avons perdu 6-2 la ronde du matin. Noé, Lloyd et Alexia ont logiquement perdu contre plus fort qu'eux. En poussin, Samuel est parvenu a remporter ses deux parties contre Léo Paul, également qualifié pour les championnats de France Petits-Poussins. Ce fût deux parties accrochées et intéressantes.
 

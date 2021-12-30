@@ -6,11 +6,11 @@ categories:
   - "vie-du-club"
 ---
 
-[![Tournoi Echecs 2015 2.0](http://echecs-veigy.fr/wp-content/uploads/2015/04/Tournoi-Echecs-2015-2.0-212x300.png)](http://echecs-veigy.fr/wp-content/uploads/2015/04/Tournoi-Echecs-2015-2.0.png)Le Club d'Echecs de Veigy-Foncenex vous invite à son 2e tournoi rapide le dimanche 28 juin 2015 de 10h à 18h qui aura lieu à la salle d'animation au dessus de l'école maternelle: 166B route du Chablais 74140 Veigy-Foncenex.
+[![Tournoi Echecs 2015 2.0](/wordpress-uploads/2015/04/Tournoi-Echecs-2015-2.0-212x300.png)](/wordpress-uploads/2015/04/Tournoi-Echecs-2015-2.0.png)Le Club d'Echecs de Veigy-Foncenex vous invite à son 2e tournoi rapide le dimanche 28 juin 2015 de 10h à 18h qui aura lieu à la salle d'animation au dessus de l'école maternelle: 166B route du Chablais 74140 Veigy-Foncenex.
 
 [→ Inscription en ligne](#inscription)
 
-[Pré-inscrits-2e-Rapide-Veigy](http://echecs-veigy.fr/wp-content/uploads/2015/04/Pré-inscrits-2e-Rapide-Veigy.pdf)
+[Pré-inscrits-2e-Rapide-Veigy](/wordpress-uploads/2015/04/Pré-inscrits-2e-Rapide-Veigy.pdf)
 
 **Au programme 7 rondes de 2 x 20 minutes :**
 

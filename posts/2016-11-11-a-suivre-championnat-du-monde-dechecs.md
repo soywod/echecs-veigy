@@ -5,7 +5,7 @@ categories:
   - "vie-du-club"
 ---
 
-![carlsen-v-karjakin](http://echecs-veigy.fr/wp-content/uploads/2016/11/Carlsen-v-Karjakin-300x170.jpg)
+![carlsen-v-karjakin](/wordpress-uploads/2016/11/Carlsen-v-Karjakin-300x170.jpg)
 
 ## Match Magnus Carlsen contre Sergey Kariakine
 

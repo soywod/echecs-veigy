@@ -6,7 +6,7 @@ categories:
   - "vie-du-club"
 ---
 
-Le Club d’Echecs de Veigy-Foncenex vous invite à son 3e tournoi rapide le dimanche 19 juin 2016 de 10h à 18h qui aura lieu à la salle des f[![3eRapide-echecs-veigy-v1 (1)](http://echecs-veigy.fr/wp-content/uploads/2016/05/3eRapide-echecs-veigy-v1-1-212x300.jpg)](http://echecs-veigy.fr/wp-content/uploads/2016/05/3eRapide-echecs-veigy-v1-1.jpg)êtes de Loisin:
+Le Club d’Echecs de Veigy-Foncenex vous invite à son 3e tournoi rapide le dimanche 19 juin 2016 de 10h à 18h qui aura lieu à la salle des f[![3eRapide-echecs-veigy-v1 (1)](/wordpress-uploads/2016/05/3eRapide-echecs-veigy-v1-1-212x300.jpg)](/wordpress-uploads/2016/05/3eRapide-echecs-veigy-v1-1.jpg)êtes de Loisin:
 
 2 chemin du Vallon 74140 Loisin
 

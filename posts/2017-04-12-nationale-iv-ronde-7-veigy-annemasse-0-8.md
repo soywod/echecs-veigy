@@ -12,4 +12,4 @@ Résultats des autres rencontres : Cluses-St-Jeoire 2 - Bourgoin-Jailleu : 2-5 E
 
 L'équipe de Chambéry remporte ce championnat et monte en Nationale III.
 
-[![](http://echecs-veigy.fr/wp-content/uploads/2017/04/WP_20170402_14_51_02_Pro-300x169.jpg)](http://echecs-veigy.fr/wp-content/uploads/2017/04/WP_20170402_14_51_02_Pro.jpg) [![](http://echecs-veigy.fr/wp-content/uploads/2017/04/WP_20170402_14_51_07_Pro-300x169.jpg)](http://echecs-veigy.fr/wp-content/uploads/2017/04/WP_20170402_14_51_07_Pro.jpg) [![](http://echecs-veigy.fr/wp-content/uploads/2017/04/WP_20170402_14_51_38_Pro-300x169.jpg)](http://echecs-veigy.fr/wp-content/uploads/2017/04/WP_20170402_14_51_38_Pro.jpg)
+[![](/wordpress-uploads/2017/04/WP_20170402_14_51_02_Pro-300x169.jpg)](/wordpress-uploads/2017/04/WP_20170402_14_51_02_Pro.jpg) [![](/wordpress-uploads/2017/04/WP_20170402_14_51_07_Pro-300x169.jpg)](/wordpress-uploads/2017/04/WP_20170402_14_51_07_Pro.jpg) [![](/wordpress-uploads/2017/04/WP_20170402_14_51_38_Pro-300x169.jpg)](/wordpress-uploads/2017/04/WP_20170402_14_51_38_Pro.jpg)

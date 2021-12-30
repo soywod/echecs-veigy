@@ -8,7 +8,7 @@ categories:
 
 ## ANNEMASSE 2 – VEIGY-FONCENEX 1
 
-![competition](http://echecs-veigy.fr/wp-content/uploads/2015/10/competition-300x300.png)
+![competition](/wordpress-uploads/2015/10/competition-300x300.png)
 
 Ce dimanche 04 Octobre a eu lieu la première du championnat de Régionale 1 2015/2016. Nous nous déplacions à Annemasse. Nous avons perdu ce match 3-1 non sans avoir démérité
 

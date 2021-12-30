@@ -7,7 +7,7 @@ categories:
 
  
 
-**[![CLJ-2015.1](http://echecs-veigy.fr/wp-content/uploads/2015/05/CLJ-2015.1.jpg)](http://echecs-veigy.fr/wp-content/uploads/2015/05/CLJ-2015.1.jpg)Six écoles au tournoi d'échecs.**
+**[![CLJ-2015.1](/wordpress-uploads/2015/05/CLJ-2015.1.jpg)](/wordpress-uploads/2015/05/CLJ-2015.1.jpg)Six écoles au tournoi d'échecs.**
 
 A Bons En Chablais, un tournoi d’échecs organisé mercredi 8 avril 2015 a permis à des élèves du CP au CM2 des écoles de la Chamarette à Annemasse, de Collonges-sous-Salève, de Seytroux, de Passy-Chedde et de Bons-en-Chablais, tous licenciés, de disputer cinq rondes de 2x15 minutes dans les locaux du restaurant scolaire, mis à la disposition des organisateurs par la municipalité (avec la participation du directeur Michel Barnoud et de Jean-Paul Heinoz).
 

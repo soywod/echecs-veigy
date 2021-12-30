@@ -6,6 +6,6 @@ categories:
   - "vie-du-club"
 ---
 
-[Affiche CJS Loisin 18 Juin 2016](http://echecs-veigy.fr/wp-content/uploads/2016/05/Affiche-CJS-Loisin-18-Juin-2016.pdf)
+[Affiche CJS Loisin 18 Juin 2016](/wordpress-uploads/2016/05/Affiche-CJS-Loisin-18-Juin-2016.pdf)
 
 Tous les jeunes du club (des débutants aux confirmés) sont attendus pour ce tournoi!!
