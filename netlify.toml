@@ -1,12 +1,9 @@
 [build]
 command = "yarn build"
-publish = ".next"
+publish = "out"
 
 [build.processing.images]
 compress = false
 
 [[plugins]]
 package = "netlify-plugin-cache-nextjs"
-
-[[plugins]]
-package = "@netlify/plugin-nextjs"

@@ -1,10 +1,9 @@
 import React from "react";
 import {GetStaticProps, NextPage} from "next";
-import Img from "next/image";
 import Head from "next/head";
 import matter from "gray-matter";
 
-import {Title} from "../components";
+import {Title, Image} from "../components";
 import cs from "./index.module.scss";
 
 type Post = {
@@ -15,7 +14,10 @@ type Post = {
 };
 
 type SerializedPost = {
-  [K in keyof Post]: string | null;
+  id: string;
+  title: string;
+  date: string;
+  thumbnail: string | null;
 };
 
 function parsePost(module: any, idx: number): Post {
@@ -79,9 +81,8 @@ const BlogPage: NextPage<Props> = props => {
       <ul className={cs.posts}>
         {props.posts.map(post => (
           <li key={post.id} className={cs.post}>
-            {post.thumbnail && <Img layout="fill" objectFit="cover" src={post.thumbnail} />}
+            {post.thumbnail && <Image objectFit="cover" src={post.thumbnail} alt={post.title} />}
             <div className={cs.title}>{post.title}</div>
-            <div className={cs.fade} />
           </li>
         ))}
       </ul>

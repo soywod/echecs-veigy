@@ -21,14 +21,9 @@
   cursor: pointer;
 
   &:hover {
-    .fade {
-      background: linear-gradient(0deg, $black, transparent);
-      height: 100%;
-    }
-
     .title {
       color: $white;
-      border-bottom: 0.4rem solid $orange;
+      border-bottom: 0.5rem solid $orange;
     }
   }
 }
@@ -38,28 +33,18 @@
   grid-row: 1;
 }
 
-.fade {
-  position: absolute;
-  bottom: 0px;
-  left: 0px;
-  right: 0px;
-  height: 50%;
-  background: linear-gradient(0deg, rgba($black, 0.8), transparent);
-  transition-duration: 125ms;
-  transition-property: background, height;
-}
-
 .title {
   grid-column: 1;
   grid-row: 1;
   z-index: 1;
   align-self: end;
   text-align: center;
-  justify-self: center;
+  justify-self: stretch;
   color: rgba($white, 0.75);
-  font-size: 1rem;
+  font-size: 0.9rem;
   padding: 0.5rem;
   transition-duration: 125ms;
   transition-property: border, color;
   border-bottom: 0 solid $orange;
+  background: rgba($black, 0.9);
 }

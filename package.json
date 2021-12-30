@@ -28,6 +28,7 @@
   },
   "scripts": {
     "start": "next dev",
-    "build": "next build"
+    "build": "next build",
+    "postbuild": "next export"
   }
 }

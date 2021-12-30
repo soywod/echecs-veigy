@@ -1,9 +1,9 @@
 import {FC} from "react";
 import Link from "next/link";
-import Img from "next/image";
 import {useRouter} from "next/router";
 import cn from "classnames";
 
+import {Image} from "../components";
 import logo from "../images/logo.png";
 import cs from "./nav.module.scss";
 
@@ -24,7 +24,7 @@ export const Nav: FC = () => {
   return (
     <nav className={cs.nav}>
       <div className={cs.logo}>
-        <Img src={logo} />
+        <Image layout="fixed" width={256} height={256} src={logo.src} alt="Logo du club" />
       </div>
       <NavLink path="/">Accueil</NavLink>
       <NavLink path="/about">À propos</NavLink>
