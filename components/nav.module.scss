@@ -6,9 +6,13 @@
   width: 16rem;
   background: $black;
   padding: 0 2rem;
-  position: relative;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
   align-content: center;
   justify-items: right;
+  z-index: 1;
 }
 
 .logo {

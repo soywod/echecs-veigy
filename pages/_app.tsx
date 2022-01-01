@@ -8,13 +8,11 @@ import cs from "./_app.module.scss";
 const App: FC<AppProps> = ({Component, pageProps}) => {
   return (
     <>
-      <div className={cs.container}>
-        <Nav />
-        <main className={cs.main}>
-          <div className={cs.fade} />
-          <Component {...pageProps} />
-        </main>
-      </div>
+      <Nav />
+      <main className={cs.main}>
+        <div className={cs.fade} />
+        <Component {...pageProps} />
+      </main>
       <Script src="https://identity.netlify.com/v1/netlify-identity-widget.js" />
     </>
   );
