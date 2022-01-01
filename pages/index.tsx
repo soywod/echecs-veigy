@@ -1,31 +1,32 @@
 import React from "react";
 import {GetStaticProps, NextPage} from "next";
 import Head from "next/head";
+import Link from "next/link";
 import matter from "gray-matter";
 
 import {Title, Image} from "../components";
 import cs from "./index.module.scss";
 
 type Post = {
-  id: number;
+  slug: string;
   title: string;
   date: Date | string;
   thumbnail: string | null;
 };
 
 type SerializedPost = {
-  id: string;
+  slug: string;
   title: string;
   date: string;
   thumbnail: string | null;
 };
 
-function parsePost(module: any, idx: number): Post {
-  const thumbnailMatch = /\((\/wordpress-uploads\/.*?.(jpe?g|png|gif))\)/.exec(module.default);
+function parsePost(slug: string, rawPost: string): Post {
+  const thumbnailMatch = /\((\/wordpress-uploads\/.*?.(jpe?g|png|gif))\)/.exec(rawPost);
   const thumbnail = thumbnailMatch && 1 in thumbnailMatch ? thumbnailMatch[1] : null;
-  const md = matter(module.default);
+  const md = matter(rawPost);
   return {
-    id: idx,
+    slug,
     title: md.data.title,
     date: md.data.date,
     thumbnail: md.data.thumbnail || thumbnail,
@@ -42,7 +43,7 @@ function orderPostsByDate(a: Post, b: Post): number {
 
 function serializePost(post: Post): SerializedPost {
   return {
-    id: post.id.toString(),
+    slug: post.slug,
     title: post.title,
     date: post.date instanceof Date ? post.date.toDateString() : post.date,
     thumbnail: post.thumbnail,
@@ -51,7 +52,12 @@ function serializePost(post: Post): SerializedPost {
 
 export const getStaticProps: GetStaticProps<Props> = async () => {
   const readRawPost = require.context("../posts", false, /\.md$/);
-  const posts = readRawPost.keys().map(readRawPost).map(parsePost).sort(orderPostsByDate).map(serializePost);
+  const posts = readRawPost
+    .keys()
+    .map(path => ({slug: path.slice(2, -3), rawPost: readRawPost(path).default}))
+    .map(({slug, rawPost}) => parsePost(slug, rawPost))
+    .sort(orderPostsByDate)
+    .map(serializePost);
 
   return {
     props: {
@@ -78,14 +84,17 @@ const BlogPage: NextPage<Props> = props => {
         <br />
         <strong>Veigy-Foncenex</strong>
       </Title>
-      <ul className={cs.posts}>
+
+      <div className={cs.posts}>
         {props.posts.map(post => (
-          <li key={post.id} className={cs.post}>
-            {post.thumbnail && <Image objectFit="cover" src={post.thumbnail} alt={post.title} />}
-            <div className={cs.title}>{post.title}</div>
-          </li>
+          <Link key={post.slug} href={`/blog/${post.slug}`} passHref>
+            <a className={cs.post}>
+              {post.thumbnail && <Image objectFit="cover" src={post.thumbnail} alt={post.title} />}
+              <div className={cs.title}>{post.title}</div>
+            </a>
+          </Link>
         ))}
-      </ul>
+      </div>
     </>
   );
 };

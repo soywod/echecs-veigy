@@ -16,6 +16,7 @@
     "gray-matter": "^4.0.3",
     "netlify-plugin-cache-nextjs": "^1.6.1",
     "raw-loader": "^4.0.2",
+    "require-context": "^1.1.0",
     "rimraf": "^3.0.2",
     "sass": "^1.45.1",
     "typescript": "4.5.2"
@@ -24,7 +25,8 @@
     "classnames": "^2.3.1",
     "next": "12.0.4",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-markdown": "^7.1.1"
   },
   "scripts": {
     "start": "next dev",
