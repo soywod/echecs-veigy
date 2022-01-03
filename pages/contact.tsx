@@ -23,6 +23,7 @@ const ContactPage: NextPage = () => {
       headers: {"Content-Type": "application/x-www-form-urlencoded"},
       body: body.toString(),
     }).then(res => {
+      console.debug(res);
       if (!res.ok) {
         throw new Error(res.statusText);
       }
@@ -52,18 +53,12 @@ const ContactPage: NextPage = () => {
         ref={form}
         className={cs.form}
         name="contact"
-        method="post"
+        method="POST"
         data-netlify="true"
-        data-netlify-recaptcha="true"
-        netlify-honeypot="name"
+        action="/"
         onSubmit={submit}
       >
         <input type="hidden" name="form-name" value="contact" />
-        <p className={cs.name}>
-          <label className={cs.label}>
-            Nom: <input name="name" />
-          </label>
-        </p>
         <p>
           <label className={cs.label}>
             Email: <input className={cs.field} type="email" name="email" required />
@@ -74,7 +69,6 @@ const ContactPage: NextPage = () => {
             Message: <textarea className={cs.field} name="message" rows={10} required></textarea>
           </label>
         </p>
-        <div data-netlify-recaptcha="true" />
         <p className={cs.submit}>
           <button className={cs.submitBtn} type="submit">
             Envoyer
