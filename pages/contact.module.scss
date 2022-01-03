@@ -1,0 +1,48 @@
+@import "../theme";
+
+.form {
+  position: relative;
+}
+
+.label {
+  font-size: 1rem;
+}
+
+.field {
+  display: block;
+  border: 2px solid $grey;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0.5rem 0.75rem;
+  transition: 125ms border;
+  font-family: "Sora", sans-serif;
+  font-size: 0.9rem;
+  resize: vertical;
+
+  &:focus {
+    outline: none;
+    border-color: $orange;
+  }
+}
+
+.submit {
+  display: flex;
+  justify-content: end;
+}
+
+.submitBtn {
+  padding: 0.5rem 1rem;
+  background: $grey;
+  font-size: 1rem;
+  border: none;
+  transition: 125ms background;
+  cursor: pointer;
+
+  &:focus {
+    outline: none;
+  }
+
+  &:hover {
+    background: $orange;
+  }
+}

@@ -1,20 +1,12 @@
 @import "../theme";
 
-.container {
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  display: grid;
-  grid-template-columns: auto minmax(0, 1fr);
-  font-family: "Sora", sans-serif;
-}
-
 .main {
+  font-family: "Sora", sans-serif;
   padding: 0 8rem;
   margin-left: 16rem;
   position: relative;
   background: $white url(./background.png);
+  min-height: 100vh;
 }
 
 .fade {
