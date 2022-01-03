@@ -1,10 +1,41 @@
 import {NextPage} from "next";
 import Head from "next/head";
+import {FormEvent, useRef} from "react";
+import {toast} from "react-toastify";
 
 import {Title} from "../components";
 import cs from "./contact.module.scss";
 
 const ContactPage: NextPage = () => {
+  const form = useRef<HTMLFormElement>(null);
+
+  function submit(evt: FormEvent) {
+    if (!form.current) return;
+    evt.preventDefault();
+
+    const resetForm = form.current.reset.bind(form.current);
+    const body = new URLSearchParams(
+      Array.from(new FormData(form.current).entries()).map(entry => [entry[0], entry[1].toString()]),
+    );
+
+    const submitForm = fetch("/", {
+      method: "POST",
+      headers: {"Content-Type": "application/x-www-form-urlencoded"},
+      body: body.toString(),
+    }).then(res => {
+      if (!res.ok) {
+        throw new Error(res.statusText);
+      }
+      resetForm();
+    });
+
+    toast.promise(submitForm, {
+      pending: "Envoi du message en cours…",
+      success: "Message envoyé avec succès",
+      error: "Une erreur est survenue lors de l'envoi du message",
+    });
+  }
+
   return (
     <>
       <Head>
@@ -18,13 +49,16 @@ const ContactPage: NextPage = () => {
       </Title>
 
       <form
+        ref={form}
         className={cs.form}
         name="contact"
-        method="POST"
+        method="post"
         data-netlify="true"
         data-netlify-recaptcha="true"
         netlify-honeypot="name"
+        onSubmit={submit}
       >
+        <input type="hidden" name="form-name" value="contact" />
         <p className={cs.name}>
           <label className={cs.label}>
             Nom: <input name="name" />
