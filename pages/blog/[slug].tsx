@@ -83,7 +83,7 @@ const PostPage: NextPage<Props> = ({post}) => {
             props.src ? (
               <span className={cs.imgContainer}>
                 <span className={cs.img}>
-                  <Image objectFit="cover" src={props.src!} />
+                  <Image objectFit="cover" src={props.src!} alt="" />
                 </span>
               </span>
             ) : null,

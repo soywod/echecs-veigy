@@ -17,17 +17,30 @@ const ContactPage: NextPage = () => {
         Nous <strong>contacter</strong>
       </Title>
 
-      <form className={cs.form} name="contact" method="POST" data-netlify="true">
+      <form
+        className={cs.form}
+        name="contact"
+        method="POST"
+        data-netlify="true"
+        data-netlify-recaptcha="true"
+        netlify-honeypot="name"
+      >
+        <p className={cs.name}>
+          <label className={cs.label}>
+            Nom: <input name="name" />
+          </label>
+        </p>
         <p>
-          <label>
+          <label className={cs.label}>
             Email: <input className={cs.field} type="email" name="email" required />
           </label>
         </p>
         <p>
-          <label>
+          <label className={cs.label}>
             Message: <textarea className={cs.field} name="message" rows={10} required></textarea>
           </label>
         </p>
+        <div data-netlify-recaptcha="true" />
         <p className={cs.submit}>
           <button className={cs.submitBtn} type="submit">
             Envoyer
