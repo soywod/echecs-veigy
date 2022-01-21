@@ -10,7 +10,7 @@ categories:
 
 [→ Inscription en ligne](#inscription)
 
-[Pré-inscrits-2e-Rapide-Veigy](/wordpress-uploads/2015/04/Pré-inscrits-2e-Rapide-Veigy.pdf)
+[pre-inscrits-2e-Rapide-Veigy](/wordpress-uploads/2015/04/pre-inscrits-2e-Rapide-Veigy.pdf)
 
 **Au programme 7 rondes de 2 x 20 minutes :**
 
