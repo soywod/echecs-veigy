@@ -28,6 +28,7 @@ export const Nav: FC = () => {
       </div>
       <NavLink path="/">Accueil</NavLink>
       <NavLink path="/about">À propos</NavLink>
+      <NavLink path="/blog">Vie du club</NavLink>
       <NavLink path="/competition">Compétition</NavLink>
       <NavLink path="/registration">Inscription</NavLink>
       <NavLink path="/contact">Contact</NavLink>

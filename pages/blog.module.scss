@@ -2,8 +2,11 @@
 
 .posts {
   position: relative;
-  display: grid;
-  grid-auto-flow: column;
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
 }
 
 .post {
@@ -11,6 +14,8 @@
   border-radius: 0.5rem;
   overflow: hidden;
   display: grid;
+  margin: 0.5rem;
+  flex-grow: 1;
   height: 15rem;
   position: relative;
   border: 0.25rem solid transparent;

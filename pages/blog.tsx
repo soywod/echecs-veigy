@@ -4,8 +4,8 @@ import Head from "next/head";
 import Link from "next/link";
 import matter from "gray-matter";
 
-import {Title, Image, Subtitle} from "../components";
-import cs from "./index.module.scss";
+import {Title, Image} from "../components";
+import cs from "./blog.module.scss";
 
 type Post = {
   slug: string;
@@ -52,25 +52,22 @@ function serializePost(post: Post): SerializedPost {
 
 export const getStaticProps: GetStaticProps<Props> = async () => {
   const readRawPost = require.context("../posts", false, /\.md$/);
-  const [lastPost, ...lastPosts] = readRawPost
+  const posts = readRawPost
     .keys()
     .map(path => ({slug: path.slice(2, -3), rawPost: readRawPost(path).default}))
     .map(({slug, rawPost}) => parsePost(slug, rawPost))
     .sort(orderPostsByDate)
-    .map(serializePost)
-    .slice(0, 5);
+    .map(serializePost);
 
   return {
     props: {
-      lastPost,
-      lastPosts,
+      posts,
     },
   };
 };
 
 type Props = {
-  lastPost: SerializedPost;
-  lastPosts: Array<SerializedPost>;
+  posts: Array<SerializedPost>;
 };
 
 const BlogPage: NextPage<Props> = props => {
@@ -88,21 +85,8 @@ const BlogPage: NextPage<Props> = props => {
         <strong>Veigy-Foncenex</strong>
       </Title>
 
-      <Subtitle>Dernier article</Subtitle>
-      <div className={cs.post}>
-        <Link href={`/blog/${props.lastPost.slug}`} passHref>
-          <a className={cs.post}>
-            {props.lastPost.thumbnail && (
-              <Image objectFit="cover" src={props.lastPost.thumbnail} alt={props.lastPost.title} />
-            )}
-            <div className={cs.title}>{props.lastPost.title}</div>
-          </a>
-        </Link>
-      </div>
-
-      <Subtitle>Derniers articles</Subtitle>
       <div className={cs.posts}>
-        {props.lastPosts.map(post => (
+        {props.posts.map(post => (
           <Link key={post.slug} href={`/blog/${post.slug}`} passHref>
             <a className={cs.post}>
               {post.thumbnail && <Image objectFit="cover" src={post.thumbnail} alt={post.title} />}
