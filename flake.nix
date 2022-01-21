@@ -23,12 +23,15 @@
           defaultPackage = pkgs.yarn2nix-moretea.mkYarnPackage {
             inherit name;
             src = ./.;
-            extraBuildInputs = with pkgs.nodePackages; [
-              prettier
-              typescript
-              typescript-language-server
-              vscode-json-languageserver
-              vscode-css-languageserver-bin
+            extraBuildInputs = with pkgs; [
+              ripgrep
+              rnix-lsp
+              nixpkgs-fmt
+              nodePackages.prettier
+              nodePackages.typescript
+              nodePackages.typescript-language-server
+              nodePackages.vscode-json-languageserver
+              nodePackages.vscode-css-languageserver-bin
             ];
             configurePhase = ''
               ln -s $node_modules node_modules
