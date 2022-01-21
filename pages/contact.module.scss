@@ -2,6 +2,8 @@
 
 .form {
   position: relative;
+  opacity:0;
+  animation: fadeIn 1s forwards;
 }
 
 // The honeypot field
@@ -11,11 +13,12 @@
 
 .label {
   font-size: 1rem;
+  font-variant: small-caps;
+  line-height:3rem;
 }
 
 .field {
   display: block;
-  border: 2px solid $grey;
   width: 100%;
   box-sizing: border-box;
   padding: 0.5rem 0.75rem;
@@ -23,6 +26,22 @@
   font-family: "Sora", sans-serif;
   font-size: 0.9rem;
   resize: vertical;
+  border-radius:0.5rem;
+  background-clip: padding-box; /* !importanté */
+  border: solid 2px transparent; /* !importanté */
+  border-radius: 1em;
+
+  &:before {
+    content: '';
+    position: absolute;
+    top: 0; right: 0; bottom: 0; left: 0;
+    z-index: -1;
+    margin: -2px; /* !importanté */
+    border-radius: inherit; /* !importanté */
+    background: linear-gradient(to right, $red, $orange);
+    outline:none;
+    border-color: $orange;
+  }
 
   &:focus {
     outline: none;
@@ -50,4 +69,9 @@
   &:hover {
     background: $orange;
   }
+}
+
+@keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
 }

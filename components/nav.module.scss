@@ -14,6 +14,7 @@
   justify-items: right;
   z-index: 1;
   font-family: "Sora", sans-serif;
+  animation:  slide 0.7s forwards;
 }
 
 .logo {
@@ -22,6 +23,8 @@
   transform: scale(1.1) translate(2rem);
   transform-origin: top left;
   z-index: 1;
+  animation: spin 0.7s forwards;
+
 }
 
 .links {
@@ -53,4 +56,22 @@
 .footer {
   color: $white;
   text-align: center;
+}
+
+@keyframes spin {
+    from{
+        transform: translateX(-5rem) rotate(0deg);    
+    }
+    to{
+        transform: translateX(2rem) rotate(360deg);  
+    }
+}
+
+@keyframes slide {
+    from{
+        transform: translateX(-100%);    
+    }
+    to{
+        transform: translateX(0);  
+    }
 }

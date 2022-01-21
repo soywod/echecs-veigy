@@ -50,6 +50,8 @@ function serializePost(post: Post): SerializedPost {
   };
 }
 
+
+
 export const getStaticProps: GetStaticProps<Props> = async () => {
   const readRawPost = require.context("../posts", false, /\.md$/);
   const posts = readRawPost
