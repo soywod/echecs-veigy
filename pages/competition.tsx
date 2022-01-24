@@ -1,7 +1,10 @@
 import {NextPage} from "next";
 import Head from "next/head";
 
-import {Title} from "../components";
+import {Title, Image} from "../components";
+import cs from "./blog.module.scss";
+import chessCup from "../images/chessCup.svg";
+
 
 const CompetitionPage: NextPage = () => {
   return (
@@ -13,8 +16,15 @@ const CompetitionPage: NextPage = () => {
       </Head>
 
       <Title>
-        Nos <strong>tournois</strong>
+        Compétitions / <strong>Résultats</strong>
       </Title>
+
+      <div className={cs.introContent}>
+          <Image layout="fixed" width={240} height={256} src={chessCup.src} alt="chess cup" />
+          <p>
+            Retrouvez les articles concernant les rencontres sportives,évenements, photo et bien plus encore. Dèjà 10 ans d'activité autour du jeu des rois !
+          </p>
+      </div>
     </>
   );
 };

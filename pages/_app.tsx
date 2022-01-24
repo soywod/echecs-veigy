@@ -21,6 +21,8 @@ const App: FC<AppProps> = ({Component, pageProps}) => {
       <Nav />
       <main className={cs.main}>
         <div className={cs.fade} />
+        <div className={cs.header} />
+
         <Component {...pageProps} />
       </main>
       <Script src="https://identity.netlify.com/v1/netlify-identity-widget.js" />

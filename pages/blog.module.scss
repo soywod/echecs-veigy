@@ -20,13 +20,19 @@
   position: relative;
   border: 0.25rem solid transparent;
   cursor: pointer;
-
-  &:hover {
-    .title {
-      color: $white;
-      border-bottom: 0.5rem solid $orange;
-    }
+  transition-property: transform;
+  transition-duration: .35s;
+  transform:scale(1);
+  
+  img {
+    filter:sepia(40%);
+    transition-property:filter;
+    transition-duration: .35s;
   }
+
+  &:hover img {transform:scale(1.02);filter:sepia(0);}
+  &:hover { transform:scale(1.01);}
+
 }
 
 .thumbnail {
@@ -41,11 +47,28 @@
   align-self: end;
   text-align: center;
   justify-self: stretch;
-  color: rgba($white, 0.75);
+  color: $white;
   font-size: 0.9rem;
-  padding: 0.5rem;
-  transition-duration: 125ms;
-  transition-property: border, color;
+  padding: 33% 0.5rem 0.5rem 0.5rem;
   border-bottom: 0 solid $orange;
-  background: rgba($black, 0.9);
+  background: linear-gradient(transparent, rgba($black, 0.8) 80% );
+  letter-spacing:1px;
+}
+
+.introContent{
+
+
+  p {
+  margin:auto;
+  max-width:780px;
+  color:$black;
+  font-family:"Sora-light", sans-serif;
+  letter-spacing:1px;
+  line-height: 1.33;
+  font-size:calc(12px + 0.5vw);
+  padding-bottom:2rem;
+  margin-bottom:2rem;
+  border-bottom: 1px solid $orange;
+
+    }
 }

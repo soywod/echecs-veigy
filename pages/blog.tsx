@@ -6,6 +6,7 @@ import matter from "gray-matter";
 
 import {Title, Image} from "../components";
 import cs from "./blog.module.scss";
+import clock from "../images/chessclock.svg";
 
 type Post = {
   slug: string;
@@ -80,10 +81,16 @@ const BlogPage: NextPage<Props> = props => {
       </Head>
 
       <Title>
-        Club d'échecs
-        <br />
-        <strong>Veigy-Foncenex</strong>
+        Vie <strong>du club</strong>
       </Title>
+
+        <div className={cs.introContent}>
+          <Image layout="fixed" width={256} height={256} src={clock.src} alt="chess clock" />
+
+          <p>
+            Retrouvez les articles concernant les rencontres sportives,évenements, photo et bien plus encore. Dèjà 10 ans d'activité autour du jeu des rois !
+          </p>
+        </div>
 
       <div className={cs.posts}>
         {props.posts.map(post => (

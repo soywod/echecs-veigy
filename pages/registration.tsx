@@ -1,7 +1,9 @@
 import {NextPage} from "next";
 import Head from "next/head";
 
-import {Title} from "../components";
+import {Title, Image} from "../components";
+import cs from "./blog.module.scss";
+import chessBoard from "../images/chessBoard.svg";
 
 const SubscriptionPage: NextPage = () => {
   return (
@@ -15,6 +17,13 @@ const SubscriptionPage: NextPage = () => {
       <Title>
         S'inscrire <strong>au club</strong>
       </Title>
+
+      <div className={cs.introContent}>
+          <Image layout="fixed" width={256} height={256} src={chessBoard.src} alt="chess board" />
+          <p>
+            Lorem Ipsum
+          </p>
+      </div>
     </>
   );
 };

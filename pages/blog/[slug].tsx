@@ -5,6 +5,7 @@ import matter from "gray-matter";
 import ReactMarkdown from "react-markdown";
 import cn from "classnames";
 
+
 import {Title, Image} from "../../components";
 import cs from "./component.module.scss";
 
@@ -75,6 +76,7 @@ const PostPage: NextPage<Props> = ({post}) => {
       </Head>
 
       <Title>{post.title}</Title>
+
 
       <ReactMarkdown
         className={cs.content}

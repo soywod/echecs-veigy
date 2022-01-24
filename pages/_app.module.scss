@@ -2,12 +2,11 @@
 
 .main {
   font-family: "Sora", sans-serif;
-  padding: 0 8rem;
+  padding: 0 8vmax;
   margin-left: 16rem;
   position: relative;
   background: $white url(./background.png);
   min-height: 100vh;
-  opacity:0;
   animation :fadeIn 1s forwards;
 }
 
@@ -18,6 +17,17 @@
   right: 0px;
   height: 50vh;
   background: linear-gradient(180deg, rgba($white, 1) 50%, rgba($white, 0) 100%);
+  z-index:-2;
+}
+
+.header{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  height: 27vh;
+  background: linear-gradient(175deg, #261b1b, #3e2f28 62%, transparent 62.5%);
+  z-index:-1;
 }
 
 

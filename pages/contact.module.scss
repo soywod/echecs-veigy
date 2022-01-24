@@ -11,10 +11,26 @@
   display: none;
 }
 
+.introContent{
+  color:$black;
+  font-family:"Sora-light", sans-serif;
+  letter-spacing:1px;
+  line-height: 1.33;
+  font-size:calc(12px + 0.5vw);
+  max-width:780px;
+}
+
 .label {
   font-size: 1rem;
   font-variant: small-caps;
   line-height:3rem;
+  background-image: linear-gradient(45deg, #ff7f2a, #fa3029);
+  background-size: 100%;
+  background-repeat: repeat;
+  -webkit-background-clip: text;
+  background-clip: text;
+  letter-spacing:2px;
+  color:transparent;  
 }
 
 .field {
@@ -26,18 +42,17 @@
   font-family: "Sora", sans-serif;
   font-size: 0.9rem;
   resize: vertical;
-  border-radius:0.5rem;
-  background-clip: padding-box; /* !importanté */
-  border: solid 2px transparent; /* !importanté */
-  border-radius: 1em;
+  border: 1px solid $grey;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.05) inset;
+  background:rgb(242,242,242);
 
   &:before {
     content: '';
     position: absolute;
     top: 0; right: 0; bottom: 0; left: 0;
     z-index: -1;
-    margin: -2px; /* !importanté */
-    border-radius: inherit; /* !importanté */
+    margin: -2px; /* !importantÃ© */
+    border-radius: inherit; /* !importantÃ© */
     background: linear-gradient(to right, $red, $orange);
     outline:none;
     border-color: $orange;
@@ -61,15 +76,22 @@
   border: none;
   transition: 125ms background;
   cursor: pointer;
+  background-image: linear-gradient(180deg, #ff7f2a, #fa3029);
+  opacity:0.8;
+  border-radius:0.25rem;
+  color:white;
+  letter-spacing:2px;
 
   &:focus {
     outline: none;
   }
 
   &:hover {
+    opacity:1;
     background: $orange;
   }
 }
+
 
 @keyframes fadeIn {
   0% {opacity:0;}

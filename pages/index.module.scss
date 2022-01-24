@@ -4,6 +4,61 @@
   position: relative;
   display: grid;
   grid-auto-flow: column;
+
+  /*reset first featured child when you are hovering other childs */
+  &:hover > :nth-child(1):not(:hover) { transform:scale(1); }
+  &:hover > :nth-child(1):not(:hover) img { filter:sepia(90%); }
+}
+
+.header{
+  position:absolute;
+  top:0;
+  right:0;
+  display:block;
+  width:50%;
+  height:20vmax;
+}
+
+.flexgrid{
+  display: flex;
+  flex-wrap:wrap;
+  text-align:center;
+  
+  div {
+    width:300px;
+    flex-grow:1;
+    margin-bottom:2rem;
+      
+    p {
+      width: 250px;
+      margin:auto;
+      line-height:1.5;
+      margin:auto;
+    }
+  }
+
+
+  h2,span {
+    margin: auto;
+    margin: 1rem 1rem 2rem 1rem;
+    width: 100%;
+  }
+
+  span {
+    font-size: calc(12px + 0.5vw);
+  }
+
+  a {color:$orange}
+
+}
+
+.intro {
+  p {
+    text-align:justify;
+    font-size:calc(12px + 0.5vw);
+    max-width:780px;
+    padding-top:7vmax;
+  }
 }
 
 .post {
@@ -15,14 +70,34 @@
   position: relative;
   border: 0.25rem solid transparent;
   cursor: pointer;
+  transform:scale(1);
+  transition-property: transform ;
+  transition-duration: .35s;
+  
+  &:hover { transform:scale(1.05); }
 
-  &:hover {
-    .title {
-      color: $white;
-      border-bottom: 0.5rem solid $orange;
-    }
+  img {
+    opacity:0.8;
+    filter:sepia(90%);
+    transition-property: filter opacity;
+    transition-duration: .35s;
   }
+
+  &:hover img { filter:sepia(10%);opacity:1; }
+
+
+  &:nth-child(1){
+    transform:scale(1.05);
+
+    img { filter:sepia(10%);     opacity:1; }
+    
+    &:hover img{ filter:sepia(0%); }
+  
+    &:hover{ transform:scale(1.06); }
+  }
+
 }
+
 
 .thumbnail {
   grid-column: 1;
@@ -36,11 +111,50 @@
   align-self: end;
   text-align: center;
   justify-self: stretch;
-  color: rgba($white, 0.75);
+  color: $white;
   font-size: 0.9rem;
-  padding: 0.5rem;
-  transition-duration: 125ms;
-  transition-property: border, color;
+  padding: 33% 0.5rem 0.5rem 0.5rem;
+  transition-duration: 500ms;
+  transition-property: border, color, transform, filter;
   border-bottom: 0 solid $orange;
-  background: rgba($black, 0.9);
+  background: linear-gradient(transparent, rgba($black, 0.8) 80% );
+  letter-spacing:1px;
+}
+
+.sponsors{
+  margin:2rem 1rem 4rem 1rem;
+  text-align:center;
+}
+
+
+@media (max-width:1680px) {
+    .posts :nth-child(7){
+    display:none;
+    } 
+}
+
+
+@media (max-width:1480px) {
+    .posts :nth-child(6){
+    display:none;
+    } 
+}
+
+@media (max-width:1280px) {
+    .posts :nth-child(5){
+    display:none;
+    } 
+}
+
+@media (max-width:1080px) {
+    .posts :nth-child(4){
+    display:none;
+    } 
+}
+
+
+@media (max-width:880px) {
+    .posts :nth-child(3){
+    display:none;
+    } 
 }

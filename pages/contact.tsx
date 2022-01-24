@@ -3,8 +3,10 @@ import Head from "next/head";
 import {FormEvent, useRef} from "react";
 import {toast} from "react-toastify";
 
+import {Image} from "../components";
 import {Title} from "../components";
 import cs from "./contact.module.scss";
+import king from "../images/chessKing.svg";
 
 const ContactPage: NextPage = () => {
   const form = useRef<HTMLFormElement>(null);
@@ -48,7 +50,19 @@ const ContactPage: NextPage = () => {
       <Title>
         Nous <strong>contacter</strong>
       </Title>
-
+        <div className={cs.introContent}>
+          <Image layout="fixed" width={240} height={256} src={king.src} alt="King chess piece" />
+          <p>
+            <strong>Club D'Échecs de Veigy-foncenex</strong>
+          </p>
+          <p>
+            <strong>Adresse postale:</strong> École Élementaire François Perillat, Route du Chablais 74140 Veigy-Foncenex
+          </p>
+          <p>
+            <strong>Téléphone:</strong>06 12 62 04 05
+          </p>
+        </div>
+        
       <form
         ref={form}
         className={cs.form}

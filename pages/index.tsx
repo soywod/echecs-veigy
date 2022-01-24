@@ -6,6 +6,11 @@ import matter from "gray-matter";
 
 import {Title, Image, Subtitle} from "../components";
 import cs from "./index.module.scss";
+import sponsors from "../images/sponsors.png";
+import board from "../images/chessBoard.webp";
+import team from "../images/chessTeam.svg";
+import cup from "../images/chessCupSmall.svg";
+import loc from "../images/chessLocalisation.svg";
 
 type Post = {
   slug: string;
@@ -58,7 +63,7 @@ export const getStaticProps: GetStaticProps<Props> = async () => {
     .map(({slug, rawPost}) => parsePost(slug, rawPost))
     .sort(orderPostsByDate)
     .map(serializePost)
-    .slice(0, 5);
+    .slice(0, 9);
 
   return {
     props: {
@@ -88,19 +93,15 @@ const BlogPage: NextPage<Props> = props => {
         <strong>Veigy-Foncenex</strong>
       </Title>
 
-      <Subtitle>Dernier article</Subtitle>
-      <div className={cs.post}>
-        <Link href={`/blog/${props.lastPost.slug}`} passHref>
-          <a className={cs.post}>
-            {props.lastPost.thumbnail && (
-              <Image objectFit="cover" src={props.lastPost.thumbnail} alt={props.lastPost.title} />
-            )}
-            <div className={cs.title}>{props.lastPost.title}</div>
-          </a>
-        </Link>
-      </div>
+    <div className={cs.header}>
+      <Image objectFit="cover" src={board.src} alt='chessboard illustration' />
+    </div>
 
-      <Subtitle>Derniers articles</Subtitle>
+    <div className={cs.intro}>
+      <p>Le CEVF est une association loi 1901 ayant pour objectif de promouvoir la pratique des échecs en contexte scolaire, récréatif ou compétitif. Nous dispensons un panel de formation sur 4 communes du chablais, pour tous niveaux à partir de 5 ans.</p>
+    </div>
+
+      <Subtitle>Vie du club</Subtitle>
       <div className={cs.posts}>
         {props.lastPosts.map(post => (
           <Link key={post.slug} href={`/blog/${post.slug}`} passHref>
@@ -111,6 +112,38 @@ const BlogPage: NextPage<Props> = props => {
           </Link>
         ))}
       </div>
+
+      <Subtitle>A propos</Subtitle>
+      <section className={cs.flexgrid}>
+        <div>
+          <Image  layout="fixed" width={156} height={156} src={team.src} alt='chessboard illustration' />
+          <p>Une équipe dévouée et une formation de qualité pour vous accompagner à tous niveaux de jeu</p>
+        </div>
+        <div>
+          <Image layout="fixed" width={156} height={156} src={cup.src} alt='chessboard illustration' />
+          <p>Le club participe et encadre les jeunes aux principales compétitions scolaires, départementales, régionales, nationales</p>
+        </div>
+        <div>
+          <Image  layout="fixed" width={156} height={156} src={loc.src} alt='chessboard illustration' />
+          <p>Des formations données sur 4 communes du Bas-Chablais : Veigy, Douvaine, Bons en Chablais et Ballaison</p>
+        </div>
+        <h2> Vous souhaitez vous inscrire au club ? </h2><br/>
+        <span>Les inscriptions pour la saison 2021-2022 sont ouvertes ! Inscrivez-vous dès maintenant <a href="/registration">en ligne</a></span>
+
+      </section>
+
+      <Subtitle>Nos soutiens</Subtitle>
+     <section className={cs.flexgrid}>
+        <span> Le club est financé par les cotisations, la commune de Veigy, le département etc. Afin de développer l'activité dans le chablais nous ....</span>
+        <h2> Vous souhaitez vous inscrire au club ? </h2><br/>
+        <span> Les inscriptions pour la saison 2021-2022 sont ouvertes ! Inscrivez-vous dès maintenant <a href="/registration">en ligne</a></span>
+      <div className={cs.sponsors}>
+        <Image layout="fixed" width={735} height={91} src={sponsors.src} alt="King chess piece" />
+      </div>
+
+      </section>
+      
+
     </>
   );
 };
